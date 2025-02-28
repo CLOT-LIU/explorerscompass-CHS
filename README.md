@@ -8,6 +8,6 @@
 
 有想要的结构汉化可以提issue，也欢迎大家来提交新的结构的补充汉化
 
-> 已汉化Mod详见zh_cn.json
+> 已汉化Mod详见更新日志
 
 本项目位置https://github.com/CLOT-LIU/explorerscompass-CHS
