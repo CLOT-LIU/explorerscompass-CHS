@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: 翻译错误报告
 about: 创建报告以帮助我们改进
 title: 翻译错误报告
 labels: bug
