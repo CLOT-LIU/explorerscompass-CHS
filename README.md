@@ -10,4 +10,6 @@
 
 > 已汉化Mod详见更新日志
 
-本项目位置https://github.com/CLOT-LIU/explorerscompass-CHS
+本项目下载位置：https://github.com/CLOT-LIU/explorerscompass-CHS/releases
+
+国内下载地址：https://bbsmc.net/resourcepack/explorerscompass-chs
