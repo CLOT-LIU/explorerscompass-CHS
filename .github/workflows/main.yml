@@ -13,24 +13,9 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
 
-    - name: Setup Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.x'
-
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
-
-    - name: Build project
-      run: |
-        # 这里可以添加你的构建命令，例如：
-        # python setup.py build
-        echo "Building project..."
-
     - name: Create zip file
       run: |
+        # 假设你想压缩整个仓库内容，排除.git和.github目录
         zip -r release.zip . -x "*.git*" "*.github*" "*.DS_Store"
 
     - name: Create Release
