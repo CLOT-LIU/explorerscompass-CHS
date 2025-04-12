@@ -12,5 +12,4 @@
 
 本项目下载位置：https://github.com/CLOT-LIU/explorerscompass-CHS/releases
 
-国内唯一下载地址：https://bbsmc.net/resourcepack/explorerscompass-chs
-
+国内下载地址：https://bbsmc.net/resourcepack/explorerscompass-chs
