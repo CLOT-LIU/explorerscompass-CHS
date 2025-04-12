@@ -25,7 +25,7 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUBTOKEN }}
       with:
         tag_name: ${{ github.ref }}
-        release_name: explorerscompass-CHS ${{ github.ref }}
+        release_name: 探险家指南针结构汉化 ${{ github.ref }}
         draft: false
         prerelease: false
 
