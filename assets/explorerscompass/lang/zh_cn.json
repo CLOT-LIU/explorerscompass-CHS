@@ -402,5 +402,31 @@
   "structure.subterrestrial.jungle_cabin": "[Subterrestrial]丛林小屋",
   "structure.subterrestrial.mesa_cabin": "[Subterrestrial]平顶山小屋",
   "structure.subterrestrial.ocean_cabin": "[Subterrestrial]海洋小屋",
-  "structure.subterrestrial.taiga_cabin": "[Subterrestrial]针叶林小屋"
+  "structure.subterrestrial.taiga_cabin": "[Subterrestrial]针叶林小屋",
+
+  "_comment": "机械动力:Structures Arise",
+  "structure.create_structures_arise.create_copper_statue": "[机械动力:Structures Arise]铜像",
+  "structure.create_structures_arise.create_ruined_castle": "[机械动力:Structures Arise]遗迹城堡",
+  "structure.create_structures_arise.createairdrop": "[机械动力:Structures Arise]空投",
+  "structure.create_structures_arise.createbarn": "[机械动力:Structures Arise]谷仓",
+  "structure.create_structures_arise.createcontainer": "[机械动力:Structures Arise]集装箱",
+  "structure.create_structures_arise.createfluidtank": "[机械动力:Structures Arise]流体储罐",
+  "structure.create_structures_arise.createhouse": "[机械动力:Structures Arise]机械动力小屋",
+  "structure.create_structures_arise.createlittleman": "[机械动力:Structures Arise]小村民雕像",
+  "structure.create_structures_arise.createlosttrainstation": "[机械动力:Structures Arise]废弃火车站",
+  "structure.create_structures_arise.createminetrain": "[机械动力:Structures Arise]矿洞列车",
+  "structure.create_structures_arise.createminiskyvillage": "[机械动力:Structures Arise]迷你天空村",
+  "structure.create_structures_arise.createoldruine": "[机械动力:Structures Arise]古代遗迹",
+  "structure.create_structures_arise.createpickaxe": "[机械动力:Structures Arise]镐型雕塑",
+  "structure.create_structures_arise.createwindmill": "[机械动力:Structures Arise]风车装置",
+  "structure.create_structures_arise.darkcastle": "[机械动力:Structures Arise]黑暗城堡",
+  "structure.create_structures_arise.deadlordshouse": "[机械动力:Structures Arise]亡灵领主的宅邸",
+  "structure.create_structures_arise.obsidiantemple": "[机械动力:Structures Arise]黑曜石神殿",
+  "structure.create_structures_arise.pillager_boat": "[机械动力:Structures Arise]掠夺者船",
+  "structure.create_structures_arise.createcushercrane": "[机械动力:Structures Arise]粉碎起重机",
+  "structure.create_structures_arise.pillagersteampunkairship": "[机械动力:Structures Arise]掠夺者蒸汽朋克飞艇",
+  
+  "_comment": "tetra",
+  "structure.tetra.extractor_ruin": "[tetra]锻造遗迹",
+  "structure.tetra.regular_ruin": "[tetra]常规遗迹"
 }
