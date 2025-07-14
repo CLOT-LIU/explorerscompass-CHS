@@ -765,10 +765,10 @@
   "structure.friendsandfoes.illusioner_shack": "[Friends&Foes]幻术师小屋",
   "structure.friendsandfoes.illusioner_training_grounds": "[Friends&Foes]幻术师训练场",
 
-  "_comment": "galosphere",
+  "_comment": "Galosphere",
   "structure.galosphere.pink_salt_shrine": "[galosphere]粉盐圣殿",
 
-  "_comment": "habitat",
+  "_comment": "Habitat",
   "structure.habitat.fairy_ring": "[galosphere]精灵环",
 
   "_comment": "千古乐事",
@@ -940,19 +940,19 @@
   "_comment": "Ribbits",
   "structure.ribbits.ribbit_village": "[Ribbits]ribbit村庄",
 
-  "_comment": "天空巨鲸船",
+  "_comment": "sky whale ship",
   "structure.sky_whale_ship.whale": "[天空巨鲸船]巨鲸",
   "structure.sky_whale_ship.whalearena": "[天空巨鲸船]巨鲸竞技场",
   "structure.sky_whale_ship.whalelight": "[天空巨鲸船]巨鲸灯饰",
   "structure.sky_whale_ship.whaleship": "[天空巨鲸船]巨鲸飞船",
 
-  "_comment": "物种",
+  "_comment": "Species",
   "structure.species.libra": "[Species]天秤",
   "structure.species.paleontology_dig_site": "[Species]化石挖掘场",
   "structure.species.spectralibur_chamber": "[Species]灵剑剑冢",
   "structure.species.wraptor_coop": "[Species]鸡蛇巢穴",
 
-  "_comment": "甜蜜灾厄",
+  "_comment": "sweet calamity",
   "structure.sweet_calamity.alternative_big_chocolate_cane_tree": "[甜蜜灾厄]大型变种巧克力手杖树",
   "structure.sweet_calamity.alternative_chocolate_cane_tree": "[甜蜜灾厄]巧克力变种手杖树",
   "structure.sweet_calamity.big_chocolate_cane_tree": "[甜蜜灾厄]大型巧克力手杖树",
