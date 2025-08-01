@@ -9,9 +9,8 @@ assignees: CLOT-LIU
 ### 必填信息
 1. **模组链接**  
    📌 多个模组请分行列出（每行一个链接），**不要**为每个模组单独创建Issue：
-   - https://www.mcmod.cn/class/1234.html
-   - https://github.com/author/mod-name
-   - https://www.mcmod.cn/class/5678.html
+   - https://www.mcmod.cn/class/4395.html
+   - https://www.mcmod.cn/class/17202.html
 
 2. **模组版本**  
    （例：1.18.2-2.1.0）
