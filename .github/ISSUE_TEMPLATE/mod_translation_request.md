@@ -13,7 +13,7 @@ assignees: CLOT-LIU
    - https://www.mcmod.cn/class/17202.html
 
 2. **模组版本**  
-   （例：1.18.2-2.1.0）
+   （例：forge:1.18.2-2.1.0）
 
 3. **重复检查**  
    [ ] 我已确认[现有Issues](https://github.com/当前仓库地址/issues?q=is%3Aissue)中没有相同模组的翻译请求  
