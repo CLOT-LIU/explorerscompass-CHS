@@ -2041,5 +2041,30 @@
   "structure.wetlands.small_cog_2": "[沼泽之下]小型齿轮 2(Small Cog 2)",
   "structure.wetlands.small_cog_3": "[沼泽之下]小型齿轮 3(Small Cog 3)",
   "structure.wetlands.small_mechanism": "[沼泽之下]小型机械(Small Mechanism)",
-  "structure.wetlands.small_pipes": "[沼泽之下]小型管道(Small Pipes)"
+  "structure.wetlands.small_pipes": "[沼泽之下]小型管道(Small Pipes)",
+
+  "_comment": "地牢与战斗",
+  "structure.dungeons_and_combat.ancient_tree": "[地牢与战斗]古树(Ancient Tree)",
+  "structure.dungeons_and_combat.blazing_fortress": "[地牢与战斗]烈焰要塞(Blazing Fortress)",
+  "structure.dungeons_and_combat.echoing_ruins": "[地牢与战斗]回响废墟(Echoing Ruins)",
+  "structure.dungeons_and_combat.ernos_cave": "[地牢与战斗]特诺斯洞穴(Ernos Cave)",
+  "structure.dungeons_and_combat.remanent_camp": "[地牢与战斗]残留营地(Remanent Camp)",
+  "structure.dungeons_and_combat.remanent_watch_tower": "[地牢与战斗]残留瞭望塔(Remanent Watch Tower)",
+  "structure.dungeons_and_combat.tavern": "[地牢与战斗]酒馆(Tavern)",
+  "structure.dungeons_and_combat.the_blacksmith_house": "[地牢与战斗]铁匠铺(The Blacksmith House)",
+  "structure.dungeons_and_combat.the_catacumbs_lugubrious": "[地牢与战斗]阴森地下墓穴(The Catacumbs Lugubrious)",
+  "structure.dungeons_and_combat.the_cathedral": "[地牢与战斗]大教堂(The Cathedral)",
+  "structure.dungeons_and_combat.the_church": "[地牢与战斗]教堂(The Church)",
+  "structure.dungeons_and_combat.the_field_of_the_fallen": "[地牢与战斗]陨落之地(The Field of the Fallen)",
+  "structure.dungeons_and_combat.the_forgotten_sands": "[地牢与战斗]遗忘沙地(The Forgotten Sands)",
+  "structure.dungeons_and_combat.the_pantheon_of_sunleia": "[地牢与战斗]桑莱亚万神殿(The Pantheon of Sunleia)",
+  "structure.dungeons_and_combat.the_ruins_of_kamath": "[地牢与战斗]卡玛斯废墟(The Ruins of Kamath)",
+  "structure.dungeons_and_combat.the_tower_of_eldrich": "[地牢与战斗]邪术之塔(The Tower of Eldrich)",
+  "structure.dungeons_and_combat.witch_hermit_house": "[地牢与战斗]女巫隐士小屋(Witch Hermit House)",
+
+  "_comment": "BOSS崛起",
+  "structure.block_factorys_bosses.dragon_tower": "[BOSS崛起]龙塔(Dragon Tower)",
+  "structure.block_factorys_bosses.sandworm_nest": "[BOSS崛起]沙虫巢穴(Sandworm Nest)",
+  "structure.block_factorys_bosses.underworld_arena": "[BOSS崛起]地下世界竞技场(Underworld Arena)",
+  "structure.block_factorys_bosses.yeti_hideout": "[BOSS崛起]雪人藏身处(Yeti Hideout)"
 }
