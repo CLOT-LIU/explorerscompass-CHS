@@ -2066,5 +2066,10 @@
   "structure.block_factorys_bosses.dragon_tower": "[BOSS崛起]龙塔(Dragon Tower)",
   "structure.block_factorys_bosses.sandworm_nest": "[BOSS崛起]沙虫巢穴(Sandworm Nest)",
   "structure.block_factorys_bosses.underworld_arena": "[BOSS崛起]地下世界竞技场(Underworld Arena)",
-  "structure.block_factorys_bosses.yeti_hideout": "[BOSS崛起]雪人藏身处(Yeti Hideout)"
+  "structure.block_factorys_bosses.yeti_hideout": "[BOSS崛起]雪人藏身处(Yeti Hideout)",
+
+  "_comment": "卡巴拉觉醒",
+  "structure.fdbosses.chesed_arena": "[卡巴拉觉醒]慈悲竞技场(Chesed Arena)",
+  "structure.fdbosses.geburah_arena": "[卡巴拉觉醒]力量竞技场(Geburah Arena)",
+  "structure.fdbosses.malkuth_arena": "[卡巴拉觉醒]王国竞技场(Malkuth Arena)"
 }
