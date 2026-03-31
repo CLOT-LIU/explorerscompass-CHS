@@ -1,4 +1,4 @@
-﻿{
+﻿﻿{
   "_comment": "探险者指南针 - 语言文件",
   "_comment": "中国大陆 - 简体中文",
 
@@ -33,11 +33,11 @@
   "string.explorerscompass.raw_generation": "原始生成",
   "string.explorerscompass.lakes": "湖泊",
   "string.explorerscompass.local_modifications": "局部修改",
-  "string.explorerscompass.underground_structures": "地下",
+  "string.explorerscompass.underground_structures": "地下结构",
   "string.explorerscompass.surface_structures": "表层",
   "string.explorerscompass.strongholds": "要塞",
   "string.explorerscompass.underground_ores": "矿石",
-  "string.explorerscompass.underground_decoration": "地下",
+  "string.explorerscompass.underground_decoration": "地下装饰",
   "string.explorerscompass.vegetal_decoration": "植被",
   "string.explorerscompass.top_layer_modification": "顶层",
 
@@ -310,6 +310,7 @@
   "structure.legendary_monsters.skeletosaurus_nest": "[传奇怪物]骷髅蜥龙巢穴(Skeletosaurus Nest)",
   "structure.legendary_monsters.soul_fortress_remains": "[传奇怪物]灵魂要塞遗迹(Soul Fortress Remains)",
   "structure.legendary_monsters.warped_fungussus_nest": "[传奇怪物]苔藓真菌巢穴(Warped Fungussus Nest)",
+  "structure.legendary_monsters.space_station": "[传说怪物]湮灭空间站(Space Station)",
 
   "_comment": "妖怪们的归家",
   "structure.youkaishomecoming.cirno_nest": "[妖怪们的归家]琪露诺的巢穴(Cirno Nest)",
@@ -783,6 +784,7 @@
 
   "_comment": "千古乐事",
   "structure.immortalers_delight.immortalers_relic": "[千古乐事]荒废的平原住宅(Immortalers Relic)",
+  "structure.immortalersdelight.ruins_with_cherry_tree": "[千古乐事]生生不息的樱花树(Ruins With Cherry Tree)",
 
   "_comment": "Jaden的下界扩展",
   "structure.netherexp.chapel": "[Jaden的下界扩展]小教堂(Chapel)",
@@ -1042,6 +1044,7 @@
   "structure.armamentarium.black_ice_monument": "[Armamentarium]黑冰纪念碑(Black Ice Monument)",
   "structure.armamentarium.damons_prison": "[Armamentarium]达蒙十四世监狱(Damons Prison)",
   "structure.armamentarium.therons_prison": "[Armamentarium]忒隆监狱(Therons Prison)",
+  "structure.armamentarium.blade_ruins": "[Armamentarium]刀刃遗迹(Blade Ruins)",
 
   "_comment": "ATi的结构",
   "structure.ati_structures.ancient_temple": "[ATi的结构]古代神庙(Ancient Temple)",
@@ -1206,6 +1209,15 @@
   "structure.trek.overworld.very_rare.coves": "[Trek]隐秘海湾(Coves)",
   "structure.trek.overworld.very_rare.farm_island": "[Trek]农场孤岛(Farm Island)",
   "structure.trek.overworld.very_rare.floating_farm_large": "[Trek]巨型浮空农场(Floating Farm Large)",
+  "structure.trek.test_height": "[Trek]测试高度(Test Height)",
+  "structure.trek.village.cherry": "[Trek]樱花村庄(Village cherry)",
+  "structure.trek.village.desert": "[Trek]沙漠村庄(Village desert)",
+  "structure.trek.village.mushroom": "[Trek]蘑菇村庄(Village mushroom)",
+  "structure.trek.village.plains": "[Trek]平原村庄(Village plains)",
+  "structure.trek.village.savanna": "[Trek]热带草原村庄(Village savanna)",
+  "structure.trek.village.snowy": "[Trek]雪地村庄(Village snowy)",
+  "structure.trek.village.swamp_vanilla": "[Trek]沼泽村庄(Village swamp Vanilla)",
+  "structure.trek.village.taiga": "[Trek]针叶林村庄(Village taiga)",
 
   "_comment": "Ad Astra",
   "structure.ad_astra.lunar_tower": "[Ad Astra]月球塔(Lunar Tower)",
@@ -2047,7 +2059,7 @@
   "structure.dungeons_and_combat.ancient_tree": "[地牢与战斗]古树(Ancient Tree)",
   "structure.dungeons_and_combat.blazing_fortress": "[地牢与战斗]烈焰要塞(Blazing Fortress)",
   "structure.dungeons_and_combat.echoing_ruins": "[地牢与战斗]回响废墟(Echoing Ruins)",
-  "structure.dungeons_and_combat.ernos_cave": "[地牢与战斗]特诺斯洞穴(Ernos Cave)",
+  "structure.dungeons_and_combat.ernos_cave": "[地牢与战斗]厄诺斯洞穴(Ernos Cave)",
   "structure.dungeons_and_combat.remanent_camp": "[地牢与战斗]残留营地(Remanent Camp)",
   "structure.dungeons_and_combat.remanent_watch_tower": "[地牢与战斗]残留瞭望塔(Remanent Watch Tower)",
   "structure.dungeons_and_combat.tavern": "[地牢与战斗]酒馆(Tavern)",
@@ -2071,5 +2083,79 @@
   "_comment": "卡巴拉觉醒",
   "structure.fdbosses.chesed_arena": "[卡巴拉觉醒]慈悲竞技场(Chesed Arena)",
   "structure.fdbosses.geburah_arena": "[卡巴拉觉醒]力量竞技场(Geburah Arena)",
-  "structure.fdbosses.malkuth_arena": "[卡巴拉觉醒]王国竞技场(Malkuth Arena)"
+  "structure.fdbosses.malkuth_arena": "[卡巴拉觉醒]王国竞技场(Malkuth Arena)",
+
+  "_comment": "更多异兽",
+  "structure.more_critters.collector_wagon_jungle": "[更多异兽]丛林流浪收藏者虫车(Collector Wagon Jungle)",
+  "structure.more_critters.collector_wagon_ocean": "[更多异兽]海洋流浪收藏者虫车(Collector Wagon Ocean)",
+  "structure.more_critters.collector_wagon_plains": "[更多异兽]平原流浪收藏者虫车(Collector Wagon Plains)",
+  "structure.more_critters.collector_wagon_savanna": "[更多异兽]热带草原流浪收藏者虫车(Collector Wagon Savanna)",
+  "structure.more_critters.collector_wagon_badlands": "[更多异兽]恶地流浪收藏者虫车(Collector Wagon Badlands)",
+  "structure.more_critters.collector_wagon_cave": "[更多异兽]洞穴流浪收藏者虫车(Collector Wagon Cave)",
+  "structure.more_critters.collector_wagon_desert": "[更多异兽]沙漠流浪收藏者虫车(Collector Wagon Desert)",
+  "structure.more_critters.collector_wagon_swamp": "[更多异兽]沼泽流浪收藏者虫车(Collector Wagon Swamp)",
+  "structure.more_critters.collector_wagon_taiga": "[更多异兽]针叶林流浪收藏者虫车(Collector Wagon Taiga)",
+  "structure.more_critters.collector_wagon_tundra": "[更多异兽]冻原流浪收藏者虫车(Collector Wagon Tundra)",
+  "structure.more_critters.ghost_ship": "[更多异兽]幽灵船(Ghost Ship)",
+  "structure.more_critters.mightshroom_burial": "[更多异兽]猛菇墓地(Mightshroom Burial)",
+  "structure.more_critters.abandoned_bunbug_farm": "[更多异兽]废弃面包虫农场(Abandoned Bunbug Farm)",
+
+  "_comment": "简易房屋",
+  "structure.simply_houses.forest_chapel": "[简易房屋]森林小教堂(Forest Chapel)",
+  "structure.simply_houses.forest_house": "[简易房屋]森林房屋(Forest House)",
+  "structure.simply_houses.forest_stonemason": "[简易房屋]森林石匠铺(Forest Stonemason)",
+  "structure.simply_houses.forest_fort": "[简易房屋]森林城堡(Forest Fort)",
+  "structure.simply_houses.taiga_house": "[简易房屋]针叶林房屋(Taiga House)",
+  "structure.simply_houses.taiga_woodcutter": "[简易房屋]针叶林伐木屋(Taiga Woodcutter)",
+  "structure.simply_houses.taiga_forge": "[简易房屋]针叶林铁匠铺(Taiga Forge)",
+  "structure.simply_houses.taiga_inn": "[简易房屋]针叶林小酒馆(Taiga Inn)",
+  "structure.simply_houses.plains_house": "[简易房屋]平原房屋(Plains House)",
+  "structure.simply_houses.plains_mansion": "[简易房屋]平原宅邸(Plains Mansion)",
+
+  "_comment": "Let's Do附加结构",
+  "structure.letsdoaddon-structures.illager_camp": "[Let's Do附加结构]掠夺者营地(Illager Camp)",
+  "structure.letsdoaddon-structures.illager_mine": "[Let's Do附加结构]掠夺者矿井(Illager Mine)",
+  "structure.letsdoaddon-structures.mangrove_hut": "[Let's Do附加结构]红树小屋(Mangrove Hut)",
+  "structure.letsdoaddon-structures.mangrove_outpost": "[Let's Do附加结构]红树前哨站(Mangrove Outpost)",
+  "structure.letsdoaddon-structures.mangrove_pond": "[Let's Do附加结构]红树池塘(Mangrove Pond)",
+  "structure.letsdoaddon-structures.barn": "[Let's Do附加结构]谷仓(Barn)",
+  "structure.letsdoaddon-structures.bear_den_tree": "[Let's Do附加结构]熊窝树(Bear Den Tree)",
+  "structure.letsdoaddon-structures.crimson_vinery": "[Let's Do附加结构]绯红葡萄园(Crimson Vinery)",
+  "structure.letsdoaddon-structures.meadow_pillager_outpost": "[Let's Do附加结构]草甸掠夺者前哨站(Meadow Pillager Outpost)",
+  "structure.letsdoaddon-structures.swamp_well": "[Let's Do附加结构]沼泽水井(Swamp Well)",
+  "structure.letsdoaddon-structures.vinery": "[Let's Do附加结构]葡萄园(Vinery)",
+  "structure.letsdoaddon-structures.warped_vinery": "[Let's Do附加结构]诡异葡萄园(Warped Vinery)",
+
+  "_comment": "Legionary",
+  "structure.legionary.bastion_arena": "[Legionary]堡垒竞技场(Bastion Arena)",
+
+  "_comment": "云端之乐",
+  "structure.delight_o_flight.cloud_island": "[云端之乐]云栖岛(Cloud Island)",
+
+  "_comment": "Sniffer's Delicacies",
+  "structure.sniffers_delicacies.f": "[嗅探兽的美食]F(F)",
+
+  "_comment": "Lios Outlandish Villages",
+  "structure.lios_outlandish_villages.spiral_tower_village_sea": "[异域村庄]螺旋塔海村(Spiral Tower Village Sea)",
+  "structure.lios_outlandish_villages.spiral_tower_village": "[异域村庄]螺旋塔村庄(Spiral Tower Village)",
+
+  "_comment": "Luistercorp",
+  "structure.luistercorp.lava_chicken": "[Luistercorp]熔岩鸡(Lava Chicken)",
+  "structure.luistercorp.mushroom_house": "[Luistercorp]蘑菇屋(Mushroom House)",
+  "structure.luistercorp.old_portal": "[Luistercorp]旧传送门(Old Portal)",
+  "structure.luistercorp.pink_wool_house": "[Luistercorp]粉色羊毛屋(Pink Wool House)",
+
+  "_comment": "赛博空间",
+  "structure.cyberspace.blackwall_maze": "[赛博空间]黑墙迷宫(Blackwall Maze)",
+
+  "_comment": "蜜蜂领域",
+  "structure.the_bumblezone.honey_slime_ranch": "[蜜蜂领域]蜂蜜史莱姆牧场(Honey Slime Ranch)",
+
+  "_comment": "青青草甸",
+  "structure.meadow.observation_post": "[青青草甸]观察哨(Observation Post)",
+  "structure.meadow.bench": "[青青草甸]长椅(Bench)",
+  "structure.meadow.chalet": "[青青草甸]小屋(Chalet)",
+  "structure.meadow.chapel": "[青青草甸]礼拜堂(Chapel)",
+  "structure.meadow.logging_camp": "[青青草甸]伐木营地(Logging Camp)",
+  "structure.meadow.monument": "[青青草甸]纪念碑(Monument)"
 }
