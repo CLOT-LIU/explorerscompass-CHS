@@ -1,4 +1,4 @@
-{
+﻿{
   "_comment": "探险者指南针 - 语言文件",
   "_comment": "中国大陆 - 简体中文",
 
@@ -210,6 +210,12 @@
   "structure.cataclysm.ruined_citadel": "[灾变]废弃堡垒(Ruined Citadel)",
   "structure.cataclysm.soul_black_smith": "[灾变]灵魂锻造厂(Soul Black Smith)",
   "structure.cataclysm.sunken_city": "[灾变]沉没之城(Sunken City)",
+  "structure.cataclysm.abandoned_spire": "[灾变]废弃尖塔(Abandoned Spire)",
+  "structure.cataclysm.abandoned_temple": "[灾变]废弃神殿(Abandoned Temple)",
+  "structure.cataclysm.abandoned_village": "[灾变]废弃村庄(Abandoned Village)",
+  "structure.cataclysm.amethyst_nest": "[灾变]紫水晶巢穴(Amethyst Nest)",
+  "structure.cataclysm.desert_site": "[灾变]沙漠发掘地(Desert Site)",
+  "structure.cataclysm.desert_occupied_village": "[灾变]被占领的沙漠村庄(Desert Occupied Village)",
 
   "_comment": "分茶",
   "structure.caupona.fumarole": "[分茶]火山喷气孔(Fumarole)",
@@ -784,7 +790,7 @@
 
   "_comment": "千古乐事",
   "structure.immortalers_delight.immortalers_relic": "[千古乐事]荒废的平原住宅(Immortalers Relic)",
-  "structure.immortalersdelight.ruins_with_cherry_tree": "[千古乐事]生生不息的樱花树(Ruins With Cherry Tree)",
+  "structure.immortalers_delight.ruins_with_cherry_tree": "[千古乐事]生生不息的樱花树(Ruins With Cherry Tree)",
 
   "_comment": "Jaden的下界扩展",
   "structure.netherexp.chapel": "[Jaden的下界扩展]小教堂(Chapel)",
@@ -2130,7 +2136,7 @@
   "structure.legionary.bastion_arena": "[Legionary]堡垒竞技场(Bastion Arena)",
 
   "_comment": "云端之乐",
-  "structure.delight_o_flight.cloud_island": "[云端之乐]云栖岛(Cloud Island)",
+  "structure.delighto_flight.cloud_island": "[云端之乐]云栖岛(Cloud Island)",
 
   "_comment": "Sniffer's Delicacies",
   "structure.sniffers_delicacies.f": "[嗅探兽的美食]F(F)",
@@ -2157,5 +2163,20 @@
   "structure.meadow.chalet": "[青青草甸]小屋(Chalet)",
   "structure.meadow.chapel": "[青青草甸]礼拜堂(Chapel)",
   "structure.meadow.logging_camp": "[青青草甸]伐木营地(Logging Camp)",
-  "structure.meadow.monument": "[青青草甸]纪念碑(Monument)"
+  "structure.meadow.monument": "[青青草甸]纪念碑(Monument)",
+
+  "_comment": "星喵工艺",
+  "structure.smc.broccoli_farm": "[星喵工艺]西兰花农场(Broccoli Farm)",
+  "structure.smc.calibur_basement": "[星喵工艺]圣剑之基(Calibur Basement)",
+  "structure.smc.daves_home": "[星喵工艺]戴夫之家(Dave's Home)",
+  "structure.smc.dirt_castle": "[星喵工艺]泥土城堡(Dirt Castle)",
+  "structure.smc.forest_inn": "[星喵工艺]森林客栈(Forest Inn)",
+  "structure.smc.fox_statue": "[星喵工艺]狐狸雕像(Fox Statue)",
+  "structure.smc.frog_statue": "[星喵工艺]青蛙雕像(Frog Statue)",
+  "structure.smc.frost_smith": "[星喵工艺]霜冻锻造坊(Frost Smith)",
+  "structure.smc.meow_bakery": "[星喵工艺]喵喵烘焙坊(Meow Bakery)",
+  "structure.smc.pillager_train_camp": "[星喵工艺]掠夺者车厢营地(Pillager Train Camp)",
+  "structure.smc.pillagers_camp": "[星喵工艺]掠夺者营地(Pillagers Camp)",
+  "structure.smc.survivors_camp": "[星喵工艺]生存者营地(Survivors Camp)",
+  "structure.smc.train_camp": "[星喵工艺]车厢营地(Train Camp)"
 }
