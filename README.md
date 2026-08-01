@@ -10,6 +10,7 @@
 
 # 主要特点
 - **全面的结构汉化**，让探索更加精准高效
+- **繁简双语支持**，同时提供简体中文（zh_cn）与繁体中文（zh_tw）翻译
 - **支持所有游戏版本**，兼容性强，持续更新
 - **社区驱动**，欢迎玩家提交新的汉化需求或补充内容
 - **开源项目**，可自由访问和贡献
@@ -17,6 +18,9 @@
 # 如何参与
 如果你需要新的结构汉化，欢迎在 **[Issue 区](https://github.com/CLOT-LIU/explorerscompass-CHS/issues)** 提出需求，或贡献补充内容，让我们共同完善这一项目。  
 已汉化的模组详见 **[更新日志](https://bbsmc.net/resourcepack/explorerscompass-chs/changelog)**。
+
+## 繁体中文纠错
+本项目现已支持繁体中文（zh_tw）翻译，但繁体译文主要由简体转换而来，可能存在用词习惯或地区用语上的偏差。如果你熟悉台湾繁体用语，欢迎帮忙纠错与润色，可通过 **[Issue 区](https://github.com/CLOT-LIU/explorerscompass-CHS/issues)** 或 Pull Request 提交修改建议。
 
 # 项目地址
 🔗 GitHub 仓库: [https://github.com/CLOT-LIU/explorerscompass-CHS](https://github.com/CLOT-LIU/explorerscompass-CHS)  
