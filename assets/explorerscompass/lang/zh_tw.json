@@ -1,13 +1,16 @@
 {
     "_comment": "探險者指南針 - 語言文件",
     "_comment": "中國大陸 - 簡體中文",
+
     "_comment": "物品",
     "item.explorerscompass.explorerscompass": "探險者指南針",
+
     "_comment": "字串 - 按鈕",
     "string.explorerscompass.back": "返回",
     "string.explorerscompass.searchForGroup": "搜索群組",
     "string.explorerscompass.selectStructure": "選擇結構",
     "string.explorerscompass.teleport": "傳送",
+
     "_comment": "字串 - 用戶界面",
     "string.explorerscompass.structure": "結構",
     "string.explorerscompass.category": "類別",
@@ -25,6 +28,7 @@
     "string.explorerscompass.sortBy": "排序方式",
     "string.explorerscompass.source": "來源",
     "string.explorerscompass.status": "狀態",
+
     "_comment": "字串 - 類別",
     "string.explorerscompass.raw_generation": "原始生成",
     "string.explorerscompass.lakes": "湖泊",
@@ -36,6 +40,7 @@
     "string.explorerscompass.underground_decoration": "地下裝飾",
     "string.explorerscompass.vegetal_decoration": "植被",
     "string.explorerscompass.top_layer_modification": "頂層",
+
     "_comment": "字串 - 結構",
     "structure.minecraft.ancient_city": "遠古城市",
     "structure.minecraft.bastion_remnant": "堡壘遺跡",
@@ -81,10 +86,12 @@
     "structure.minecraft.village_swamp": "沼澤村莊",
     "structure.minecraft.village_taiga": "針葉林村莊",
     "structure.minecraft.trial_chambers": "試煉密室",
+
     "_comment": "橋梁",
     "structure.abridged.bridge": "[橋梁]橋梁(Bridge)",
     "structure.abridged.canyon_bridge": "[橋梁]峽谷橋(Canyon Bridge)",
     "structure.abridged.creek_bridge": "[橋梁]小溪橋(Creek Bridge)",
+
     "_comment": "Alex的洞穴",
     "structure.alexscaves.abyssal_ruins": "[Alex的洞穴]深淵遺跡(Abyssal Ruins)",
     "structure.alexscaves.acid_pit": "[Alex的洞穴]酸坑(Acid Pit)",
@@ -100,6 +107,7 @@
     "structure.alexscaves.soda_bottle": "[Alex的洞穴]汽水瓶(Soda Bottle)",
     "structure.alexscaves.underground_cabin": "[Alex的洞穴]地底小屋(Underground Cabin)",
     "structure.alexscaves.volcano": "[Alex的洞穴]火山(Volcano)",
+
     "_comment": "海靈物語",
     "structure.aquamirae.ice_maze": "[海靈物語]寒冰迷宮(Ice Maze)",
     "structure.aquamirae.ice_maze.arch": "[海靈物語]拱門(Arch)",
@@ -108,18 +116,22 @@
     "structure.aquamirae.outpost": "[海靈物語]塔樓(Outpost)",
     "structure.aquamirae.shelter": "[海靈物語]避難所(Shelter)",
     "structure.aquamirae.ship": "[海靈物語]擱淺艦船(Ship)",
+
     "_comment": "悠然一派",
     "structure.atmospheric.arid_garden": "[悠然一派]乾旱花園(Arid Garden)",
     "structure.atmospheric.kousa_sanctum": "[悠然一派]棶木聖所(Kousa Sanctum)",
     "structure.atmospheric.village_scrubland": "[悠然一派]村莊荒地(Scrubland Village)",
+
     "_comment": "秋原",
     "structure.autumnity.maple_hut": "[秋原]楓林女巫小屋(Maple Hut)",
+
     "_comment": "美化！",
     "structure.beautify.botanist_house_desert": "[美化！]植物學家沙漠住宅(Botanist House Desert)",
     "structure.beautify.botanist_house_plains": "[美化！]植物學家平原住宅(Botanist House Plains)",
     "structure.beautify.botanist_house_savanna": "[美化！]植物學家熱帶草原住宅(Botanist House Savanna)",
     "structure.beautify.botanist_house_snowy": "[美化！]植物學家雪地住宅(Botanist House Snowy)",
     "structure.beautify.botanist_house_taiga": "[美化！]植物學家針葉林住宅(Botanist House Taiga)",
+
     "_comment": "更好的末地",
     "structure.betterend.end_village": "[更好的末地]末地村莊(End Village)",
     "structure.betterend.eternal_portal": "[更好的末地]永恆傳送門(Eternal Portal)",
@@ -129,6 +141,7 @@
     "structure.betterend.megalake_small": "[更好的末地]巨型湖泊(小)(Megalake Small)",
     "structure.betterend.mountain": "[更好的末地]山脈(Mountain)",
     "structure.betterend.painted_mountain": "[更好的末地]彩繪山脈(Painted Mountain)",
+
     "_comment": "更好的下界",
     "structure.betternether.altars": "[更好的下界]祭壇(Altars)",
     "structure.betternether.gardens": "[更好的下界]花園(Gardens)",
@@ -140,11 +153,13 @@
     "structure.betternether.pyramid": "[更好的下界]金字塔(Pyramid)",
     "structure.betternether.respawn_points": "[更好的下界]重生點(Respawn Points)",
     "structure.betternether.spawn_altar_ladder": "[更好的下界]生成祭壇梯子(Spawn Altar Ladder)",
+
     "_comment": "生物群系改造",
     "structure.biomemakeover.ghost_town": "[生物群系改造]鬼城(Ghost Town)",
     "structure.biomemakeover.mansion": "[生物群系改造]林地府邸(Mansion)",
     "structure.biomemakeover.mushroom_house": "[生物群系改造]蘑菇屋(Mushroom House)",
     "structure.biomemakeover.sunken_ruin": "[生物群系改造]沉沒廢墟(Sunken Ruin)",
+
     "_comment": "生於混沌",
     "structure.born_in_chaos_v1.clown_caravan_plains": "[生於混沌]馬車營地-平原(Clown Caravan Plains)",
     "structure.born_in_chaos_v1.clown_caravan_savanna": "[生於混沌]馬車營地-熱帶草原(Clown Caravan Savanna)",
@@ -171,17 +186,21 @@
     "structure.born_in_chaos_v1.mound_of_hounds": "[生於混沌]骸骨荒地(Mound Of Hounds)",
     "structure.born_in_chaos_v1.observation_tower_forest": "[生於混沌]森林瞭望塔(Observation Tower Forest)",
     "structure.born_in_chaos_v1.observation_tower_plains": "[生於混沌]平原瞭望塔(Observation Tower Plains)",
+
     "_comment": "禍亂鬼魅",
     "structure.bosses_of_mass_destruction.gauntlet_arena": "[禍亂鬼魅]下界鐵掌競技場(Gauntlet Arena)",
     "structure.bosses_of_mass_destruction.lich_tower": "[禍亂鬼魅]巫妖塔(Lich Tower)",
     "structure.bosses_of_mass_destruction.obsidilith_arena": "[禍亂鬼魅]黑曜石浮島(Obsidilith Arena)",
     "structure.bosses_of_mass_destruction.void_blossom": "[禍亂鬼魅]虛空之花洞穴(Void Blossom)",
+
     "_comment": "溺亡者之嚎",
     "structure.call_of_drowner.the_tide_raiser_tower": "[溺亡者之嚎]海中塔樓(The Tide Raiser Tower)",
     "structure.call_of_drowner.ocean_shrine": "[溺亡者之嚎]破敗的神龕(Ocean Shrine)",
+
     "_comment": "尤卡坦的呼喚",
     "structure.call_of_yucutan.deadly_crypt": "[尤卡坦的呼喚]致命墓穴(Deadly Crypt)",
     "structure.call_of_yucutan.overgrown_temple": "[尤卡坦的呼喚]蔓生神廟(Overgrown Temple)",
+
     "_comment": "災變",
     "structure.cataclysm.acropolis": "[災變]衛城(Acropolis)",
     "structure.cataclysm.ancient_factory": "[災變]遠古工廠(Ancient Factory)",
@@ -197,35 +216,46 @@
     "structure.cataclysm.amethyst_nest": "[災變]紫水晶巢穴(Amethyst Nest)",
     "structure.cataclysm.desert_site": "[災變]沙漠發掘地(Desert Site)",
     "structure.cataclysm.desert_occupied_village": "[災變]被占領的沙漠村莊(Desert Occupied Village)",
+
     "_comment": "分茶",
     "structure.caupona.fumarole": "[分茶]火山噴氣孔(Fumarole)",
+
     "_comment": "幽邃黑暗",
     "structure.deeperdarker.ancient_temple": "[幽邃黑暗]遠古神廟(Ancient Temple)",
+
     "_comment": "EEEAB的生物",
     "structure.eeeabsmobs.bloody_altar": "[EEEAB的生物]血色祭壇(Bloody Altar)",
     "structure.eeeabsmobs.guling": "[EEEAB的生物]古陵(Guling)",
+    "structure.eeeabsmobs.coreforge_ruins": "[EEEAB的生物]機核哨站(Coreforge Ruins)",
+
     "_comment": "末地群系",
     "structure.endlessbiomes.arkan_bulwark": "[末地群系]阿肯堡壘(Arkan Bulwark)",
     "structure.endlessbiomes.resitive_bulwark": "[末地群系]抗性堡壘(Resitive Bulwark)",
+
     "_comment": "末域奇饌",
     "structure.exquisito.inverted_ruins": "[末域奇饌]顛倒廢墟(Inverted Ruins)",
+
     "_comment": "Mokels的Boss戰：基諾拉",
     "structure.mokels_boss_mantyd.kinoras_garden": "[Mokels的Boss戰：基諾拉]基諾拉的花園(Kinoras Garden)",
+
     "_comment": "Mokels:破碎的女神",
     "structure.mokels_bossfight_saphyra.church_of_the_oath_pus": "[Mokels:破碎的女神]誓約膿血教堂(Church Of The Oath Pus)",
     "structure.mokels_bossfight_saphyra.fractured_clock_tower": "[Mokels:破碎的女神]破碎時鐘塔(Fractured Clock Tower)",
     "structure.mokels_bossfight_saphyra.observatory": "[Mokels:破碎的女神]天文台(Observatory)",
     "structure.mokels_bossfight_saphyra.the_three_hallowed_towers": "[Mokels:破碎的女神]三聖塔(The Three Hallowed Towers)",
+
     "_comment": "Mowzie的生物",
     "structure.mowziesmobs.frostmaw_spawn": "[Mowzie的生物]霜凍巨獸出生點(Frostmaw Spawn)",
     "structure.mowziesmobs.monastery": "[Mowzie的生物]修道院(Monastery)",
     "structure.mowziesmobs.umvuthana_grove": "[Mowzie的生物]烏姆武提樹林(Umvuthana Grove)",
     "structure.mowziesmobs.wrought_chamber": "[Mowzie的生物]鍛造室(Wrought Chamber)",
+
     "_comment": "Marium的魂類武器",
     "structure.soulsweapons.cathedral_of_resurrection": "[Marium的魂類武器]重生聖殿(Cathedral Of Resurrection)",
     "structure.soulsweapons.champions_graves": "[Marium的魂類武器]古英雄墓園(Champions Graves)",
     "structure.soulsweapons.corrupt_altar": "[Marium的魂類武器]腐化祭壇(Corrupt Altar)",
     "structure.soulsweapons.decaying_kingdom": "[Marium的魂類武器]腐朽王國(Decaying Kingdom)",
+
     "_comment": "地牢浮現之時",
     "structure.dungeons_arise.abandoned_temple": "[地牢浮現之時]廢棄寺廟(Abandoned Temple)",
     "structure.dungeons_arise.aviary": "[地牢浮現之時]幻夢塔樓(Aviary)",
@@ -266,12 +296,14 @@
     "structure.dungeons_arise.typhon": "[地牢浮現之時]提豐遺骸(Typhon)",
     "structure.dungeons_arise.undead_pirate_ship": "[地牢浮現之時]幽靈海盜船(Undead Pirate Ship)",
     "structure.dungeons_arise.wishing_well": "[地牢浮現之時]許願井(Wishing Well)",
+
     "_comment": "地牢浮現之時 - 海洋擴展",
     "structure.dungeons_arise_seven_seas.corsair_corvette": "[地牢浮現之時 - 海洋擴展]海盜護衛艦(Corsair Corvette)",
     "structure.dungeons_arise_seven_seas.pirate_junk": "[地牢浮現之時 - 海洋擴展]海盜帆船(Pirate Junk)",
     "structure.dungeons_arise_seven_seas.small_yacht": "[地牢浮現之時 - 海洋擴展]小型遊艇(Small Yacht)",
     "structure.dungeons_arise_seven_seas.unicorn_galleon": "[地牢浮現之時 - 海洋擴展]獨角獸大帆船(Unicorn Galleon)",
     "structure.dungeons_arise_seven_seas.victory_frigate": "[地牢浮現之時 - 海洋擴展]勝利護衛艦(Victory Frigate)",
+
     "_comment": "傳奇怪物",
     "structure.legendary_monsters.abandoned_crypt": "[傳奇怪物]廢棄墓穴(Abandoned Crypt)",
     "structure.legendary_monsters.ancient_stronghold": "[傳奇怪物]荒古要塞(Ancient Stronghold)",
@@ -286,10 +318,12 @@
     "structure.legendary_monsters.soul_fortress_remains": "[傳奇怪物]靈魂要塞遺跡(Soul Fortress Remains)",
     "structure.legendary_monsters.warped_fungussus_nest": "[傳奇怪物]苔蘚真菌巢穴(Warped Fungussus Nest)",
     "structure.legendary_monsters.space_station": "[傳說怪物]湮滅太空站(Space Station)",
+
     "_comment": "妖怪們的歸家",
     "structure.youkaishomecoming.cirno_nest": "[妖怪們的歸家]琪露諾的巢穴(Cirno Nest)",
     "structure.youkaishomecoming.hakurei_shrine": "[妖怪們的歸家]博麗神社(Hakurei Shrine)",
     "structure.youkaishomecoming.youkai_nest": "[妖怪們的歸家]野生妖怪的家(Youkai Nest)",
+
     "_comment": "地牢建築統合",
     "structure.idas.abandoned_lighthouse": "[地牢建築統合]廢棄燈塔(Abandoned Lighthouse)",
     "structure.idas.abandoned_vineyard": "[地牢建築統合]廢棄葡萄園(Abandoned Vineyard)",
@@ -371,6 +405,7 @@
     "structure.idas.winter_wagon": "[地牢建築統合]冬季馬車(Winter Wagon)",
     "structure.idas.witches_treestump": "[地牢建築統合]女巫樹樁(Witches Treestump)",
     "structure.idas.wizard_tower": "[地牢建築統合]巫師塔(Wizard Tower)",
+
     "_comment": "YUNG系列",
     "structure.betterdeserttemples.desert_temple": "[YUNG的沙漠神殿優化]沙漠神殿(Desert Temple)",
     "structure.betterdungeons.skeleton_dungeon": "[YUNG的地牢優化]亡靈要塞(Skeleton Dungeon)",
@@ -397,6 +432,7 @@
     "structure.betterstrongholds.stronghold": "[YUNG的要塞優化]要塞(Stronghold)",
     "structure.betterwitchhuts.witch_circle": "[YUNG的沼澤小屋優化]女巫法陣(Witch Circle)",
     "structure.betterwitchhuts.witch_hut": "[YUNG的沼澤小屋優化]沼澤小屋(Witch Hut)",
+
     "_comment": "Subterrestrial",
     "structure.subterrestrial.deepslate_cabin": "[Subterrestrial]深板岩小屋(Deepslate Cabin)",
     "structure.subterrestrial.default_cabin": "[Subterrestrial]默認小屋(Default Cabin)",
@@ -406,6 +442,7 @@
     "structure.subterrestrial.mesa_cabin": "[Subterrestrial]平頂山小屋(Mesa Cabin)",
     "structure.subterrestrial.ocean_cabin": "[Subterrestrial]海洋小屋(Ocean Cabin)",
     "structure.subterrestrial.taiga_cabin": "[Subterrestrial]針葉林小屋(Taiga Cabin)",
+
     "_comment": "機械動力:Structures Arise",
     "structure.create_structures_arise.create_copper_statue": "[機械動力:Structures Arise]銅像(Create Copper Statue)",
     "structure.create_structures_arise.create_dungeon_base": "[機械動力:Structures Arise]機械動力地牢基地(Create Dungeon Base)",
@@ -428,9 +465,11 @@
     "structure.create_structures_arise.pillager_boat": "[機械動力:Structures Arise]掠奪者船(Pillager Boat)",
     "structure.create_structures_arise.createcushercrane": "[機械動力:Structures Arise]粉碎起重機(Createcushercrane)",
     "structure.create_structures_arise.pillagersteampunkairship": "[機械動力:Structures Arise]掠奪者蒸汽朋克飛艇(Pillagersteampunkairship)",
+
     "_comment": "tetra",
     "structure.tetra.extractor_ruin": "[tetra]鍛造遺跡(Extractor Ruin)",
     "structure.tetra.regular_ruin": "[tetra]常規遺跡(Regular Ruin)",
+
     "_comment": "AdoraBuild: Structures",
     "structure.adorabuild_structures.acacia_house_medium_1": "[AdoraBuild: Structures]金合歡木中型房屋_1(Acacia House Medium 1)",
     "structure.adorabuild_structures.acacia_house_medium_2": "[AdoraBuild: Structures]金合歡木中型房屋_2(Acacia House Medium 2)",
@@ -532,6 +571,7 @@
     "structure.adorabuild_structures.spruce_ship_1": "[AdoraBuild: Structures]雲杉船_1(Spruce Ship 1)",
     "structure.adorabuild_structures.warped_house_small_1": "[AdoraBuild: Structures]詭異小型房屋_1(Warped House Small 1)",
     "structure.adorabuild_structures.warped_house_small_2": "[AdoraBuild: Structures]詭異小型房屋_2(Warped House Small 2)",
+
     "_comment": "Cobblemon",
     "structure.cobblemon.fishing_boat.beach": "[Cobblemon]沙灘漁船(Beach)",
     "structure.cobblemon.fishing_boat.deep_ocean": "[Cobblemon]深海漁船(Deep Ocean)",
@@ -581,12 +621,14 @@
     "structure.cobblemon.ruins.unstable_cave_ruins": "[Cobblemon]危岩幽窟遺跡(Unstable Cave Ruins)",
     "structure.cobblemon.shipwreck_coves.lush_shipwreck_cove": "[Cobblemon]繁茂沉船灣(Lush Shipwreck Cove)",
     "structure.cobblemon.shipwreck_coves.submerged_shipwreck_cove": "[Cobblemon]水下沉船灣(Submerged Shipwreck Cove)",
+
     "_comment": "Cobblemon: Mega Showdown",
     "structure.mega_showdown.archaeological_site": "[Cobblemon: Mega Showdown]考古遺址(Archaeological Site)",
     "structure.mega_showdown.mega_site": "[Cobblemon: Mega Showdown]超級進化石遺跡(Mega Site)",
     "structure.mega_showdown.megaroid": "[Cobblemon: Mega Showdown]鑰石遺跡(Megaroid)",
     "structure.mega_showdown.observatory": "[Cobblemon: Mega Showdown]天文台(Observatory)",
     "structure.mega_showdown.wishing_weald": "[Cobblemon: Mega Showdown]祈願樹海(Wishing Weald)",
+
     "_comment": "Farmers Structures",
     "structure.farmers_structures.aether": "[Farmers Structures]天境小屋(Aether)",
     "structure.farmers_structures.aquaculture_beach": "[Farmers Structures]水產品沙灘小屋(Aquaculture Beach)",
@@ -609,6 +651,7 @@
     "structure.farmers_structures.squid_farm": "[Farmers Structures]魷魚漁場(Squid Farm)",
     "structure.farmers_structures.sushi": "[Farmers Structures]壽司廚房(Sushi)",
     "structure.farmers_structures.undergarden_sea": "[Farmers Structures]深暗之園毒海小屋(Undergarden Sea)",
+
     "_comment": "Terralith",
     "structure.terralith.desert_outpost": "[Terralith]沙漠前哨站(Desert Outpost)",
     "structure.terralith.fortified_desert_village": "[Terralith]沙漠要塞村莊(Fortified Desert Village)",
@@ -638,22 +681,26 @@
     "structure.terralith.underground.witch_hut": "[Terralith]地下女巫小屋(Witch Hut)",
     "structure.terralith.valley_lodge": "[Terralith]山谷小屋(Valley Lodge)",
     "structure.terralith.witch_hut": "[Terralith]女巫小屋(Witch Hut)",
+
     "_comment": "bca-寶可夢城鎮",
     "structure.bca.village.large": "[bca]寶可夢大型城鎮(Large)",
     "structure.bca.village.mid": "[bca]寶可夢中型城鎮(Mid)",
     "structure.bca.village.small": "[bca]寶可夢小型城鎮(Small)",
+
     "_comment": "genomons",
     "structure.genomons.bell_tower": "[genomons]鍾之塔(Bell Tower)",
     "structure.genomons.burned_tower": "[genomons]燒焦塔(Burned Tower)",
     "structure.genomons.dyna_tree_hill": "[genomons]動態樹之丘(Dyna Tree Hill)",
     "structure.genomons.ilex_shrine": "[genomons]檜皮神社(Ilex Shrine)",
     "structure.genomons.megalo_tower": "[genomons]巨塔(Megalo Tower)",
+
     "_comment": "legendary-傳說寶可夢洞穴",
     "structure.legendary.regice_cave": "[legendary]雷吉艾斯洞穴(Regice Cave)",
     "structure.legendary.regidrago_cave": "[legendary]雷吉鐸拉戈洞穴(Regidrago Cave)",
     "structure.legendary.regieleki_cave": "[legendary]雷吉艾勒奇洞穴(Regieleki Cave)",
     "structure.legendary.regirock_cave": "[legendary]雷吉洛克洞穴(Regirock Cave)",
     "structure.legendary.registeel_cave": "[legendary]雷吉斯奇魯洞穴(Registeel Cave)",
+
     "_comment": "Terramity",
     "structure.terramity.ancient_outcrop": "[Terramity]古代岩層(Ancient Outcrop)",
     "structure.terramity.chthonian_breach": "[Terramity]幽冥缺口(Chthonian Breach)",
@@ -672,6 +719,7 @@
     "structure.terramity.suspicious_shrine": "[Terramity]可疑聖祠(Suspicious Shrine)",
     "structure.terramity.sword_shrine": "[Terramity]劍祠(Sword Shrine)",
     "structure.terramity.trial_spire": "[Terramity]試煉尖塔(Trial Spire)",
+
     "_comment": "Faded Conquest II",
     "structure.faded_conquest_2.abyss_tree": "[Faded Conquest II]深淵古樹(Abyss Tree)",
     "structure.faded_conquest_2.abysstree_3": "[Faded Conquest II]深淵古樹3型(Abysstree 3)",
@@ -692,6 +740,7 @@
     "structure.faded_conquest_2.spire": "[Faded Conquest II]奧術尖塔(Spire)",
     "structure.faded_conquest_2.spire_2": "[Faded Conquest II]奧術尖塔2型(Spire 2)",
     "structure.faded_conquest_2.spire_3": "[Faded Conquest II]奧術尖塔3型(Spire 3)",
+
     "_comment": "Mokels RPG 2 Sunrise",
     "structure.mokels_rpg_two.amethystflower": "[Mokels RPG 2 Sunrise]紫水晶花(Amethystflower)",
     "structure.mokels_rpg_two.arena": "[Mokels RPG 2 Sunrise]競技場(Arena)",
@@ -703,60 +752,77 @@
     "structure.mokels_rpg_two.spikelarge": "[Mokels RPG 2 Sunrise]巨型尖刺(Spikelarge)",
     "structure.mokels_rpg_two.spikemedium": "[Mokels RPG 2 Sunrise]中型尖刺(Spikemedium)",
     "structure.mokels_rpg_two.spikesmall": "[Mokels RPG 2 Sunrise]小型尖刺(Spikesmall)",
+
     "_comment": "Aether",
     "structure.aether.large_aercloud": "[Aether]天境大型雲朵(Large Aercloud)",
+
     "_comment": "深暗之園",
     "structure.undergarden.catacombs": "[深暗之園]下僻巢穴(Catacombs)",
     "structure.undergarden.forgotten_vestige": "[深暗之園]遺憶之地遺跡(Forgotten Vestige)",
+
     "_comment": "新生魔藝",
     "structure.ars_nouveau.guardian_wilden_den": "[新生魔藝]荒野守衛者巢穴(Guardian Wilden Den)",
     "structure.ars_nouveau.hunter_wilden_den": "[新生魔藝]荒野獵手巢穴(Hunter Wilden Den)",
     "structure.ars_nouveau.stalker_wilden_den": "[新生魔藝]荒野伏擊者巢穴(Stalker Wilden Den)",
+
     "_comment": "逝去的下界",
     "structure.bygonenether.catacomb": "[逝去的下界]巨型化石營地(Catacomb)",
     "structure.bygonenether.citadel": "[逝去的下界]下界堡壘(Citadel)",
     "structure.bygonenether.piglin_manor": "[逝去的下界]豬靈莊園(Piglin Manor)",
+
     "_comment": "末影樂事",
     "structure.endersdelight.end_house": "[末影樂事]末地小屋(End House)",
+
     "_comment": "地牢樂事",
     "structure.dungeonsdelight.rotten_dungeon": "[地牢樂事]腐爛地牢(Rotten Dungeon)",
+
     "_comment": "Friends&Foes",
     "structure.friendsandfoes.beekeeper_hut": "[Friends&Foes]養蜂人小屋(Beekeeper Hut)",
     "structure.friendsandfoes.citadel": "[Friends&Foes]下界要塞(Citadel)",
     "structure.friendsandfoes.iceologer_cabin": "[Friends&Foes]冰術師小屋(Iceologer Cabin)",
     "structure.friendsandfoes.illusioner_shack": "[Friends&Foes]幻術師小屋(Illusioner Shack)",
     "structure.friendsandfoes.illusioner_training_grounds": "[Friends&Foes]幻術師訓練場(Illusioner Training Grounds)",
+
     "_comment": "Galosphere",
     "structure.galosphere.pink_salt_shrine": "[galosphere]粉鹽聖殿(Pink Salt Shrine)",
+
     "_comment": "Habitat",
     "structure.habitat.fairy_ring": "[galosphere]精靈環(Fairy Ring)",
+
     "_comment": "千古樂事",
     "structure.immortalers_delight.immortalers_relic": "[千古樂事]荒廢的平原住宅(Immortalers Relic)",
     "structure.immortalers_delight.ruins_with_cherry_tree": "[千古樂事]生生不息的櫻花樹(Ruins With Cherry Tree)",
+
     "_comment": "Jaden的下界擴展",
     "structure.netherexp.chapel": "[Jaden的下界擴展]小教堂(Chapel)",
     "structure.netherexp.devils_bluff": "[Jaden的下界擴展]魔鬼崖(Devils Bluff)",
     "structure.netherexp.mega_fossil": "[Jaden的下界擴展]巨型化石(Mega Fossil)",
     "structure.netherexp.mega_fossil_campsite": "[Jaden的下界擴展]巨型化石營地(Mega Fossil Campsite)",
     "structure.netherexp.sanctum": "[Jaden的下界擴展]聖所(Sanctum)",
+
     "_comment": "抓水母",
     "structure.jellyfishing.buried_treasure": "[抓水母]埋藏的寶藏(Buried Treasure)",
+
     "_comment": "Makit Better",
     "structure.makit_better.dead_tree": "[Makit Better]枯樹(Dead Tree)",
     "structure.makit_better.meteorite_crater": "[Makit Better]隕石坑(Meteorite Crater)",
     "structure.makit_better.prismarine_altar": "[Makit Better]海晶祭壇(Prismarine Altar)",
+
     "_comment": "Mischief Illagers",
     "structure.mischief_illagers.illager_fortress_house": "[Mischief Illagers]掠奪者小屋(Illager Fortress House)",
     "structure.mischief_illagers.imprecator_hut": "[Mischief Illagers]詛咒師小屋(Imprecator Hut)",
     "structure.mischief_illagers.partyger_cabin": "[Mischief Illagers]派對掠奪者小屋(Partyger Cabin)",
     "structure.mischief_illagers.withermancer_shack": "[Mischief Illagers]凋零巫師小屋(Withermancer Shack)",
+
     "_comment": "自然之靈",
     "structure.natures_spirit.village_adobe": "[自然之靈]土坯村莊(Adobe Village)",
     "structure.natures_spirit.village_coconut": "[自然之靈]椰子村莊(Coconut Village)",
     "structure.natures_spirit.village_cypress": "[自然之靈]柏樹村莊(Cypress Village)",
     "structure.natures_spirit.village_wisteria": "[自然之靈]紫藤村莊(Wisteria Village)",
+
     "_comment": "熾海生機",
     "structure.netherdepthsupgrade.nether_fortress_piece": "[熾海生機]下界要塞殘骸(Nether Fortress Piece)",
+
     "_comment": "我們走過的生物群系",
     "structure.biomeswevegone.abandoned_prairie_house": "[我們走過的生物群系]廢棄草原小屋(Abandoned Prairie House)",
     "structure.biomeswevegone.aspen_manor_1": "[我們走過的生物群系]白楊莊園_1(Aspen Manor 1)",
@@ -774,6 +840,7 @@
     "structure.biomeswevegone.village.red_rock": "[我們走過的生物群系]紅岩村莊(Red Rock)",
     "structure.biomeswevegone.village.salem": "[我們走過的生物群系]塞勒姆村莊(Salem)",
     "structure.biomeswevegone.village.skyris": "[我們走過的生物群系]天際村莊(Skyris)",
+
     "_comment": "帕斯特之夢",
     "structure.pasterdream.aaroncos_arena_portal": "[帕斯特之夢]亞倫柯斯競技場傳送門(Aaroncos Arena Portal)",
     "structure.pasterdream.big_bubbles_0": "[帕斯特之夢]巨型泡泡_0(Big Bubbles 0)",
@@ -888,18 +955,22 @@
     "structure.pasterdream.wind_pond_0": "[帕斯特之夢]風泊池塘(Wind Pond 0)",
     "structure.pasterdream.windmill_lodge": "[帕斯特之夢]風拂農舍(Windmill Lodge)",
     "structure.pasterdream.windmoor_tree_0": "[帕斯特之夢]大風泊樹(Windmoor Tree 0)",
+
     "_comment": "Ribbits",
     "structure.ribbits.ribbit_village": "[Ribbits]ribbit村莊(Ribbit Village)",
+
     "_comment": "sky whale ship",
     "structure.sky_whale_ship.whale": "[天空巨鯨船]巨鯨(Whale)",
     "structure.sky_whale_ship.whalearena": "[天空巨鯨船]巨鯨競技場(Whalearena)",
     "structure.sky_whale_ship.whalelight": "[天空巨鯨船]巨鯨燈飾(Whalelight)",
     "structure.sky_whale_ship.whaleship": "[天空巨鯨船]巨鯨飛船(Whaleship)",
+
     "_comment": "Species",
     "structure.species.libra": "[Species]天秤(Libra)",
     "structure.species.paleontology_dig_site": "[Species]化石挖掘場(Paleontology Dig Site)",
     "structure.species.spectralibur_chamber": "[Species]靈劍劍塚(Spectralibur Chamber)",
     "structure.species.wraptor_coop": "[Species]雞蛇巢穴(Wraptor Coop)",
+
     "_comment": "sweet calamity",
     "structure.sweet_calamity.alternative_big_chocolate_cane_tree": "[甜蜜災厄]大型變種巧克力手杖樹(Alternative Big Chocolate Cane Tree)",
     "structure.sweet_calamity.alternative_chocolate_cane_tree": "[甜蜜災厄]巧克力變種手杖樹(Alternative Chocolate Cane Tree)",
@@ -926,8 +997,10 @@
     "structure.sweet_calamity.tiny_chocolate_cane_tree": "[甜蜜災厄]微型巧克力手杖樹(Tiny Chocolate Cane Tree)",
     "structure.sweet_calamity.village_bakery": "[甜蜜災厄]村莊麵包房(Bakery Village)",
     "structure.sweet_calamity.white_chocolate_castle_ruin": "[甜蜜災厄]白巧克力城堡遺跡(White Chocolate Castle Ruin)",
+
     "_comment": "末地拓展",
     "structure.endergetic.eetle_nest": "[末地拓展]伊特爾巢穴(Eetle Nest)",
+
     "_comment": "曠野之息高塔",
     "structure.totw_modded.aether": "[曠野之息高塔]天境高塔(Aether)",
     "structure.totw_modded.badlands": "[曠野之息高塔]惡地高塔(Badlands)",
@@ -951,8 +1024,10 @@
     "structure.totw_modded.tw_canopy": "[曠野之息高塔]樹冠高塔(Tw Canopy)",
     "structure.totw_modded.tw_mangrove": "[曠野之息高塔]紅樹林高塔(Tw Mangrove)",
     "structure.totw_modded.venus": "[曠野之息高塔]金星高塔(Venus)",
+
     "_comment": "Twigs",
     "structure.twigs.bloodstone_obelisk": "[Twigs]血石方尖碑(Bloodstone Obelisk)",
+
     "_comment": "不同尋常的末地",
     "structure.unusualend.ancient_end_tower": "[不同尋常的末地]遠古末地塔(Ancient End Tower)",
     "structure.unusualend.chorus_cane": "[不同尋常的末地]紫頌藤(Chorus Cane)",
@@ -964,16 +1039,20 @@
     "structure.unusualend.wanderer_island": "[不同尋常的末地]流浪商人之島(Wanderer Island)",
     "structure.unusualend.warped_flying_end_ship": "[不同尋常的末地]詭異飛行末地船(Warped Flying End Ship)",
     "structure.unusualend.warped_station": "[不同尋常的末地]詭異站點(Warped Station)",
+
     "_comment": "馥郁烘焙",
     "structure.bakery.bakery": "[馥郁烘焙]麵包房(Bakery)",
+
     "_comment": "盛節精釀",
     "structure.brewery.brewfest_tent": "[盛節精釀]釀酒節帳篷(Brewfest Tent)",
+
     "_comment": "Armamentarium",
     "structure.armamentarium.adams_prison": "[Armamentarium]亞當·霍爾沃斯監獄(Adams Prison)",
     "structure.armamentarium.black_ice_monument": "[Armamentarium]黑冰紀念碑(Black Ice Monument)",
     "structure.armamentarium.damons_prison": "[Armamentarium]達蒙十四世監獄(Damons Prison)",
     "structure.armamentarium.therons_prison": "[Armamentarium]忒隆監獄(Therons Prison)",
     "structure.armamentarium.blade_ruins": "[Armamentarium]刀刃遺跡(Blade Ruins)",
+
     "_comment": "ATi的結構",
     "structure.ati_structures.ancient_temple": "[ATi的結構]古代神廟(Ancient Temple)",
     "structure.ati_structures.ancient_vessel": "[ATi的結構]古代艦船(Ancient Vessel)",
@@ -1010,9 +1089,11 @@
     "structure.ati_structures.underwater_dungeon": "[ATi的結構]水下地牢(Underwater Dungeon)",
     "structure.ati_structures.villager_inn": "[ATi的結構]村民旅館(Villager Inn)",
     "structure.ati_structures.woodland_keep": "[ATi的結構]林地要塞(Woodland Keep)",
+
     "_comment": "輻遼地帶",
     "structure.radiation_zone.totem_temple": "[輻遼地帶]圖騰神殿(Totem Temple)",
     "structure.radiation_zone.wasteland_pyramid": "[輻遼地帶]廢土金字塔(Wasteland Pyramid)",
+
     "_comment": "Trek",
     "structure.trek.end.medium.end_city": "[Trek]中型末地城(End City)",
     "structure.trek.nether.common.nether_pillar": "[Trek]下界岩柱(Nether Pillar)",
@@ -1144,6 +1225,7 @@
     "structure.trek.village.snowy": "[Trek]雪地村莊(Village snowy)",
     "structure.trek.village.swamp_vanilla": "[Trek]沼澤村莊(Village swamp Vanilla)",
     "structure.trek.village.taiga": "[Trek]針葉林村莊(Village taiga)",
+
     "_comment": "Ad Astra",
     "structure.ad_astra.lunar_tower": "[Ad Astra]月球塔(Lunar Tower)",
     "structure.ad_astra.lunarian_village": "[Ad Astra]月球村莊(Lunarian Village)",
@@ -1153,11 +1235,13 @@
     "structure.ad_astra.pygro_tower": "[Ad Astra]外星豬靈塔(Pygro Tower)",
     "structure.ad_astra.pygro_village": "[Ad Astra]外星豬靈村莊(Pygro Village)",
     "structure.ad_astra.venus_bullet": "[Ad Astra]金星隕石坑(Venus Bullet)",
+
     "_comment": "神化",
     "structure.apotheosis.tower_leaf": "[神化] 樹葉之塔(Tower Leaf)",
     "structure.apotheosis.tower_main": "[神化] 核心主塔(Tower Main)",
     "structure.apotheosis.tower_sand": "[神化] 沙岩之塔(Tower Sand)",
     "structure.apotheosis.tower_spruce": "[神化] 雲杉木塔(Tower Spruce)",
+
     "_comment": "Hopo系列",
     "structure.hopo.mineshaft.acacia_mineshaft": "[Hopo系列]金合歡礦井(Acacia Mineshaft)",
     "structure.hopo.mineshaft.bamboo_mineshaft": "[Hopo系列]竹林礦井(Bamboo Mineshaft)",
@@ -1182,8 +1266,10 @@
     "structure.hopo.underwater.underwater_fossils": "[Hopo系列]水下化石(Underwater Fossils)",
     "structure.hopo.underwater.underwater_small_ruins": "[Hopo系列]水下小型遺跡(Underwater Small Ruins)",
     "structure.hopo.underwater.underwater_warm_small_ruins": "[Hopo系列]溫水海洋水下小型遺跡(Underwater Warm Small Ruins)",
+
     "_comment": "集成要塞",
     "structure.integrated_stronghold.stronghold": "[集成要塞]要塞(Stronghold)",
+
     "_comment": "集成村莊",
     "structure.integrated_villages.airship_village": "[集成村莊]飛艇村莊(Airship Village)",
     "structure.integrated_villages.cabin_village": "[集成村莊]木屋村莊(Cabin Village)",
@@ -1197,6 +1283,7 @@
     "structure.integrated_villages.quark.minka_village": "[集成村莊]夸克/和風村莊(Minka Village)",
     "structure.integrated_villages.sunken_village": "[集成村莊]沉沒村莊(Sunken Village)",
     "structure.integrated_villages.tavern_village": "[集成村莊]酒館村莊(Tavern Village)",
+
     "_comment": "鐵魔法",
     "structure.irons_spellbooks.ancient_battleground": "[鐵魔法]遠古戰場(Ancient Battleground)",
     "structure.irons_spellbooks.catacombs": "[鐵魔法]地下墓穴(Catacombs)",
@@ -1205,8 +1292,12 @@
     "structure.irons_spellbooks.mangrove_hut": "[鐵魔法]藥劑師巫居(Mangrove Hut)",
     "structure.irons_spellbooks.mountain_tower": "[鐵魔法]冰霜術士塔(Mountain Tower)",
     "structure.irons_spellbooks.pyromancer_tower": "[鐵魔法]熾焰術士塔(Pyromancer Tower)",
+    "structure.irons_spellbooks.citadel": "[鐵魔法]城堡(Citadel)",
+    "structure.irons_spellbooks.ice_spider_den": "[鐵魔法]冰霜蜘蛛巢穴(Ice Spider Den)",
+
     "_comment": "空無之景",
     "structure.nullscape.dragon_skeleton": "[空無之景]巨龍遺骸(Dragon Skeleton)",
+
     "_comment": "結構變體",
     "structure.repurposed_structures.ancient_city_end": "[結構變體]末地古城(Ancient City End)",
     "structure.repurposed_structures.ancient_city_nether": "[結構變體]下界古城(Ancient City Nether)",
@@ -1319,9 +1410,11 @@
     "structure.repurposed_structures.witch_hut_mangrove": "[結構變體]紅樹林女巫小屋(Witch Hut Mangrove)",
     "structure.repurposed_structures.witch_hut_oak": "[結構變體]橡木林女巫小屋(Witch Hut Oak)",
     "structure.repurposed_structures.witch_hut_taiga": "[結構變體]針葉林女巫小屋(Taiga Hut Witch)",
+
     "_comment": "天空競技場",
     "structure.skyarena.ice_arena": "[天空競技場]冰霜競技場(Ice Arena)",
     "structure.skyarena.sky_arena": "[天空競技場]天空競技場(Sky Arena)",
+
     "_comment": "詭厄巫法",
     "structure.goety.black_assembly": "[詭厄巫法]黑暗集會(Black Assembly)",
     "structure.goety.blighted_shack": "[詭厄巫法]朽壞木屋(Blighted Shack)",
@@ -1333,7 +1426,22 @@
     "structure.goety.ominous_blacksmith": "[詭厄巫法]不祥鐵匠鋪(Ominous Blacksmith)",
     "structure.goety.secluded_igloo": "[詭厄巫法]隱蔽冰屋(Secluded Igloo)",
     "structure.goety.spider_den": "[詭厄巫法]蜘蛛之母巢穴(Spider Den)",
-    "structure.goety.wind_snrine": "[詭厄巫法]烈風神祠(Wind Snrine)",
+    "structure.goety.wind_shrine": "[詭厄巫法]烈風神祠(Wind Shrine)",
+    "structure.goety.final_terminal": "[詭厄巫法]終末永獄(Final Terminal)",
+    "structure.goety.ruined_monastery": "[詭厄巫法]破敗修道院(Ruined Monastery)",
+    "structure.goety.sorcerous_keep": "[詭厄巫法]巫師堡壘(Sorcerous Keep)",
+
+    "_comment": "詭厄巫法[啟示錄]",
+    "structure.goety_revelation.church": "[啟示錄]緋紅教堂(Church)",
+
+    "_comment": "詭厄樂事",
+    "structure.goety_delight.ectoplasmic_melon_field": "[詭厄樂事]靈質瓜田(Ectoplasmic Melon Field)",
+
+    "_comment": "冰火傳說",
+    "structure.iceandfire.gorgon_temple": "[冰火傳說]蛇髮女妖神殿(Gorgon Temple)",
+    "structure.iceandfire.graveyard": "[冰火傳說]墓地(Graveyard)",
+    "structure.iceandfire.mausoleum": "[冰火傳說]悚陵(Mausoleum)",
+
     "_comment": "失落廢墟",
     "structure.additionalstructures.acacia_log": "[失落廢墟]金合歡原木(Acacia Log)",
     "structure.additionalstructures.big_jungle_log": "[失落廢墟]大型叢林原木(Big Jungle Log)",
@@ -1540,6 +1648,7 @@
     "structure.additionalstructures.well_2": "[失落廢墟]水井_2(Well 2)",
     "structure.additionalstructures.wither_skull": "[失落廢墟]凋靈骷髏頭顱(Wither Skull)",
     "structure.additionalstructures._override_structure": "[失落廢墟]_覆蓋結構( Override Structure)",
+
     "_comment": "Explorify",
     "structure.explorify.badlands_pyramid": "[Explorify]惡地金字塔(Badlands Pyramid)",
     "structure.explorify.black_spiral": "[Explorify]黑石螺旋塔(Black Spiral)",
@@ -1564,6 +1673,7 @@
     "structure.explorify.watchtower.plains": "[Explorify]平原瞭望塔(Plains)",
     "structure.explorify.watchtower.savanna": "[Explorify]熱帶草原瞭望塔(Savanna)",
     "structure.explorify.watchtower.taiga": "[Explorify]針葉林瞭望塔(Taiga)",
+
     "_comment": "神話護符",
     "structure.mythic_charms.aquamarine_composer": "[神話護符]海藍作曲家(Aquamarine Composer)",
     "structure.mythic_charms.camp": "[神話護符]森林營地(Camp)",
@@ -1578,6 +1688,7 @@
     "structure.mythic_charms.teal_composer": "[神話護符]藍綠作曲家(Teal Composer)",
     "structure.mythic_charms.underground_village": "[神話護符]地下村莊(Underground Village)",
     "structure.mythic_charms.violet_composer": "[神話護符]藍紫作曲家(Violet Composer)",
+
     "_comment": "匯流來世",
     "structure.confluence.air": "[匯流來世]空氣(Air)",
     "structure.confluence.crimson_cave": "[匯流來世]猩紅洞穴(Crimson Cave)",
@@ -1604,8 +1715,10 @@
     "structure.confluence.sky_village": "[匯流來世]天空村莊(Sky Village)",
     "structure.confluence.small_living_mahogany_tree": "[匯流來世]小型生命紅木樹(Small Living Mahogany Tree)",
     "structure.confluence.underground_cabins": "[匯流來世]地下小屋(Underground Cabins)",
+
     "_comment": "異世入侵",
     "structure.isekai_invaded.piglin_legion": "[異世入侵]豬靈軍團(Piglin Legion)",
+
     "_comment": "光明之旅",
     "structure.jitl.alloy_mender_house": "[光明之旅]合金修補匠小屋(Alloy Mender House)",
     "structure.jitl.ancient": "[光明之旅]遠古遺跡(Ancient)",
@@ -1639,11 +1752,13 @@
     "structure.jitl.terranian_mega_tree": "[光明之旅]泰蘭尼亞巨樹(Terranian Mega Tree)",
     "structure.jitl.totem": "[光明之旅]圖騰聖柱(Totem)",
     "structure.jitl.trader_hut": "[光明之旅]行商小屋(Trader Hut)",
+
     "_comment": "豆腐工藝",
     "structure.tofucraft.tofu_castle": "[豆腐工藝]豆腐堡壘(Tofu Castle)",
     "structure.tofucraft.tofu_ruins": "[豆腐工藝]豆腐遺跡(Tofu Ruins)",
     "structure.tofucraft.tofu_village": "[豆腐工藝]豆腐村莊(Tofu Village)",
     "structure.tofucraft.zunda_tofu_village": "[豆腐工藝]毛豆豆腐村莊(Zunda Tofu Village)",
+
     "_comment": "方塊與深藍之樹",
     "structure.caerula_arbor.abyssal_lab": "[方塊與深藍之樹]覆雪實驗室(Abyssal Lab)",
     "structure.caerula_arbor.air_base": "[方塊與深藍之樹]高架碉堡(Air Base)",
@@ -1677,14 +1792,17 @@
     "structure.caerula_arbor.trader_sky": "[方塊與深藍之樹]風崖行商(Trader Sky)",
     "structure.caerula_arbor.trader_tnt": "[方塊與深藍之樹]惡地行商(Trader Tnt)",
     "structure.caerula_arbor.watchtower": "[方塊與深藍之樹]深藍哨塔(Watchtower)",
+
     "_comment": "T.O魔法擴展包",
     "structure.traveloptics.aqua_mage_tower": "[T.O魔法擴展包]源流宗師塔(Aqua Mage Tower)",
     "structure.traveloptics.echo_shrine": "[T.O魔法擴展包]迴響聖壇(Echo Shrine)",
     "structure.traveloptics.void_cathedral": "[T.O魔法擴展包]虛空大教堂(Void Cathedral)",
+
     "_comment": "Allthemodium",
     "structure.allthemodium.ancient_pyramid": "[Allthemodium]古代金字塔(Ancient Pyramid)",
     "structure.allthemodium.dungeon": "[Allthemodium]地牢(Dungeon)",
     "structure.allthemodium.piglin_village": "[Allthemodium]豬靈村莊(Piglin Village)",
+
     "_comment": "水下村莊",
     "structure.underwater_village.cold_big_gate": "[水下村莊]冷水海底巨型大門(Cold Big Gate)",
     "structure.underwater_village.cold_broken_house": "[水下村莊]冷水海底破損房屋(Cold Broken House)",
@@ -1704,6 +1822,7 @@
     "structure.underwater_village.warm_broken_house": "[水下村莊]暖水海底破損房屋(Warm Broken House)",
     "structure.underwater_village.warm_fountain": "[水下村莊]暖水海底噴泉(Warm Fountain)",
     "structure.underwater_village.warm_gate": "[水下村莊]暖水海底大門(Warm Gate)",
+
     "_comment": "Moog的末地結構",
     "structure.mes.astral_hideaway": "[Moog的末地結構]星界隱居地(Astral Hideaway)",
     "structure.mes.astral_meteorite": "[Moog的末地結構]星界隕石(Astral Meteorite)",
@@ -1730,6 +1849,7 @@
     "structure.mes.placid_prairie": "[Moog的末地結構]寧靜草原(Placid Prairie)",
     "structure.mes.starlight_voyager": "[Moog的末地結構]星光漫遊者(Starlight Voyager)",
     "structure.mes.ruined_pillar": "[Moog的末地結構]符文柱(Runed Pillar)",
+
     "_comment": "機械動力：簡易結構",
     "structure.create_easy_structures.big_1": "[機械動力：簡易結構]大型建築 1(Big 1)",
     "structure.create_easy_structures.big_2": "[機械動力：簡易結構]大型建築 2(Big 2)",
@@ -1747,6 +1867,7 @@
     "structure.create_easy_structures.house_4": "[機械動力：簡易結構]房屋 4(House 4)",
     "structure.create_easy_structures.undergroundtrain": "[機械動力：簡易結構]地下列車(Underground Train)",
     "structure.create_easy_structures.windmill": "[機械動力：簡易結構]風車(Windmill)",
+
     "_comment": "像素寶可夢 重鑄",
     "structure.pixelmon.den.badlands": "[像素寶可夢 重鑄]惡地巢穴(Badlands Den)",
     "structure.pixelmon.den.beach": "[像素寶可夢 重鑄]沙灘巢穴(Beach Den)",
@@ -1826,6 +1947,7 @@
     "structure.pixelmon.way_point.plains": "[像素寶可夢 重鑄]平原導航石(Plains Waypoint)",
     "structure.pixelmon.way_point.savanna": "[像素寶可夢 重鑄]草原導航石(Savanna Waypoint)",
     "structure.pixelmon.way_point.swamp": "[像素寶可夢 重鑄]泥沼導航石(Swamp Waypoint)",
+
     "_comment": "真菌感染:孢子",
     "structure.spore.biomass_tower": "[真菌感染:孢子]生物質塔(Biomass Tower)",
     "structure.spore.cathedral": "[真菌感染:孢子]大教堂(Cathedral)",
@@ -1840,6 +1962,7 @@
     "structure.spore.military_camp": "[真菌感染:孢子]軍事營地(Military Camp)",
     "structure.spore.mines": "[真菌感染:孢子]礦洞(Mines)",
     "structure.spore.prison": "[真菌感染:孢子]監獄(Prison)",
+
     "_comment": "城鎮與高塔",
     "structure.towns_and_towers.exclusives.pillager_outpost_classic": "[城鎮與高塔]經典掠奪者前哨站(Pillager Outpost Classic)",
     "structure.towns_and_towers.exclusives.pillager_outpost_iberian": "[城鎮與高塔]伊比利亞掠奪者前哨站(Pillager Outpost Iberian)",
@@ -1901,6 +2024,7 @@
     "structure.towns_and_towers.village_swamp": "[城鎮與高塔]沼澤村莊(Village Swamp)",
     "structure.towns_and_towers.village_wooded_badlands": "[城鎮與高塔]疏林惡地村莊(Village Wooded Badlands)",
     "structure.towns_and_towers.wreckage_ocean": "[城鎮與高塔]海洋殘骸(Wreckage Ocean)",
+
     "_comment": "地牢增強",
     "structure.dungeons_enhanced.black_citadel": "[地牢增強]黑要塞(Black Citadel)",
     "structure.dungeons_enhanced.castle": "[地牢增強]城堡(Castle)",
@@ -1929,6 +2053,7 @@
     "structure.dungeons_enhanced.tree_house": "[地牢增強]樹屋(Tree House)",
     "structure.dungeons_enhanced.watch_tower": "[地牢增強]瞭望塔(Watch Tower)",
     "structure.dungeons_enhanced.witch_tower": "[地牢增強]女巫塔(Witch Tower)",
+
     "_comment": "沼澤之下",
     "structure.wetlands.big_pipes": "[沼澤之下]大型管道(Big Pipes)",
     "structure.wetlands.elder_golem_dungeon": "[沼澤之下]遠古石像鬼地牢(Elder Golem Dungeon)",
@@ -1952,6 +2077,7 @@
     "structure.wetlands.small_cog_3": "[沼澤之下]小型齒輪 3(Small Cog 3)",
     "structure.wetlands.small_mechanism": "[沼澤之下]小型機械(Small Mechanism)",
     "structure.wetlands.small_pipes": "[沼澤之下]小型管道(Small Pipes)",
+
     "_comment": "地牢與戰鬥",
     "structure.dungeons_and_combat.ancient_tree": "[地牢與戰鬥]古樹(Ancient Tree)",
     "structure.dungeons_and_combat.blazing_fortress": "[地牢與戰鬥]烈焰要塞(Blazing Fortress)",
@@ -1970,15 +2096,19 @@
     "structure.dungeons_and_combat.the_ruins_of_kamath": "[地牢與戰鬥]卡瑪斯廢墟(The Ruins of Kamath)",
     "structure.dungeons_and_combat.the_tower_of_eldrich": "[地牢與戰鬥]邪術之塔(The Tower of Eldrich)",
     "structure.dungeons_and_combat.witch_hermit_house": "[地牢與戰鬥]女巫隱士小屋(Witch Hermit House)",
+
     "_comment": "BOSS崛起",
     "structure.block_factorys_bosses.dragon_tower": "[BOSS崛起]龍塔(Dragon Tower)",
     "structure.block_factorys_bosses.sandworm_nest": "[BOSS崛起]沙蟲巢穴(Sandworm Nest)",
     "structure.block_factorys_bosses.underworld_arena": "[BOSS崛起]地下世界競技場(Underworld Arena)",
     "structure.block_factorys_bosses.yeti_hideout": "[BOSS崛起]雪人藏身處(Yeti Hideout)",
+    "structure.block_factorys_bosses.kraken_ship": "[BOSS崛起]克拉肯之船(Kraken Ship)",
+
     "_comment": "卡巴拉覺醒",
     "structure.fdbosses.chesed_arena": "[卡巴拉覺醒]慈悲競技場(Chesed Arena)",
     "structure.fdbosses.geburah_arena": "[卡巴拉覺醒]力量競技場(Geburah Arena)",
     "structure.fdbosses.malkuth_arena": "[卡巴拉覺醒]王國競技場(Malkuth Arena)",
+
     "_comment": "更多異獸",
     "structure.more_critters.collector_wagon_jungle": "[更多異獸]叢林流浪收藏者蟲車(Collector Wagon Jungle)",
     "structure.more_critters.collector_wagon_ocean": "[更多異獸]海洋流浪收藏者蟲車(Collector Wagon Ocean)",
@@ -1993,6 +2123,7 @@
     "structure.more_critters.ghost_ship": "[更多異獸]幽靈船(Ghost Ship)",
     "structure.more_critters.mightshroom_burial": "[更多異獸]猛菇墓地(Mightshroom Burial)",
     "structure.more_critters.abandoned_bunbug_farm": "[更多異獸]廢棄麵包蟲農場(Abandoned Bunbug Farm)",
+
     "_comment": "簡易房屋",
     "structure.simply_houses.forest_chapel": "[簡易房屋]森林小教堂(Forest Chapel)",
     "structure.simply_houses.forest_house": "[簡易房屋]森林房屋(Forest House)",
@@ -2004,6 +2135,7 @@
     "structure.simply_houses.taiga_inn": "[簡易房屋]針葉林小酒館(Taiga Inn)",
     "structure.simply_houses.plains_house": "[簡易房屋]平原房屋(Plains House)",
     "structure.simply_houses.plains_mansion": "[簡易房屋]平原宅邸(Plains Mansion)",
+
     "_comment": "Let's Do附加結構",
     "structure.letsdoaddon-structures.illager_camp": "[Let's Do附加結構]掠奪者營地(Illager Camp)",
     "structure.letsdoaddon-structures.illager_mine": "[Let's Do附加結構]掠奪者礦井(Illager Mine)",
@@ -2017,24 +2149,32 @@
     "structure.letsdoaddon-structures.swamp_well": "[Let's Do附加結構]沼澤水井(Swamp Well)",
     "structure.letsdoaddon-structures.vinery": "[Let's Do附加結構]葡萄園(Vinery)",
     "structure.letsdoaddon-structures.warped_vinery": "[Let's Do附加結構]詭異葡萄園(Warped Vinery)",
+
     "_comment": "Legionary",
     "structure.legionary.bastion_arena": "[Legionary]堡壘競技場(Bastion Arena)",
+
     "_comment": "雲端之樂",
     "structure.delighto_flight.cloud_island": "[雲端之樂]雲棲島(Cloud Island)",
+
     "_comment": "Sniffer's Delicacies",
     "structure.sniffers_delicacies.f": "[嗅探獸的美食]F(F)",
+
     "_comment": "Lios Outlandish Villages",
     "structure.lios_outlandish_villages.spiral_tower_village_sea": "[異域村莊]螺旋塔海村(Spiral Tower Village Sea)",
     "structure.lios_outlandish_villages.spiral_tower_village": "[異域村莊]螺旋塔村莊(Spiral Tower Village)",
+
     "_comment": "Luistercorp",
     "structure.luistercorp.lava_chicken": "[Luistercorp]熔岩雞(Lava Chicken)",
     "structure.luistercorp.mushroom_house": "[Luistercorp]蘑菇屋(Mushroom House)",
     "structure.luistercorp.old_portal": "[Luistercorp]舊傳送門(Old Portal)",
     "structure.luistercorp.pink_wool_house": "[Luistercorp]粉色羊毛屋(Pink Wool House)",
+
     "_comment": "賽博空間",
     "structure.cyberspace.blackwall_maze": "[賽博空間]黑牆迷宮(Blackwall Maze)",
+
     "_comment": "蜜蜂領域",
     "structure.the_bumblezone.honey_slime_ranch": "[蜜蜂領域]蜂蜜史萊姆牧場(Honey Slime Ranch)",
+
     "_comment": "青青草甸",
     "structure.meadow.observation_post": "[青青草甸]觀察哨(Observation Post)",
     "structure.meadow.bench": "[青青草甸]長椅(Bench)",
@@ -2042,6 +2182,7 @@
     "structure.meadow.chapel": "[青青草甸]禮拜堂(Chapel)",
     "structure.meadow.logging_camp": "[青青草甸]伐木營地(Logging Camp)",
     "structure.meadow.monument": "[青青草甸]紀念碑(Monument)",
+
     "_comment": "星喵工藝",
     "structure.smc.broccoli_farm": "[星喵工藝]青花菜農場(Broccoli Farm)",
     "structure.smc.calibur_basement": "[星喵工藝]聖劍之基(Calibur Basement)",
@@ -2055,5 +2196,63 @@
     "structure.smc.pillager_train_camp": "[星喵工藝]掠奪者車廂營地(Pillager Train Camp)",
     "structure.smc.pillagers_camp": "[星喵工藝]掠奪者營地(Pillagers Camp)",
     "structure.smc.survivors_camp": "[星喵工藝]生存者營地(Survivors Camp)",
-    "structure.smc.train_camp": "[星喵工藝]車廂營地(Train Camp)"
+    "structure.smc.train_camp": "[星喵工藝]車廂營地(Train Camp)",
+
+    "_comment": "魔術師",
+    "structure. .theatre": "[魔術師]劇院(Theatre)",
+    
+    "_comment": "red",
+    "structure.red.abandoned_house": "[red]廢棄房屋(Abandoned House)",
+    "structure.red.beach_house": "[red]海灘小屋(Beach House)",
+    "structure.red.big_oracle": "[red]大神諭所(Big Oracle)",
+    "structure.red.birch_deforestation": "[red]白樺林災厄營地(Birch Deforestation)",
+    "structure.red.dark_tower": "[red]黑暗塔(Dark Tower)",
+    "structure.red.desert_pyramid": "[red]沙漠金字塔(Desert Pyramid)",
+    "structure.red.flower_oracle": "[red]花神諭所(Flower Oracle)",
+    "structure.red.forest_deforestation": "[red]森林災厄營地(Forest Deforestation)",
+    "structure.red.herobrine_statue": "[red]Herobrine雕像(Herobrine Statue)",
+    "structure.red.jungle_deforestation": "[red]叢林災厄營地(Jungle Deforestation)",
+    "structure.red.jungle_pyramid": "[red]阿茲特克神廟(Jungle Pyramid)",
+    "structure.red.patheon": "[red]帕特農神廟(Patheon)",
+    "structure.red.plains_oracle": "[red]平原神諭所(Plains Oracle)",
+    "structure.red.snowy_oracle": "[red]雪地神諭所(Snowy Oracle)",
+    "structure.red.sphinx": "[red]獅身人面像(Sphinx)",
+    "structure.red.statue": "[red]雕像(Statue)",
+    "structure.red.statue2": "[red]雕像二號(Statue2)",
+    "structure.red.swamp_pillager": "[red]沼澤災厄營地(Swamp Pillager)",
+    "structure.red.swamp_pillager_mangrove": "[red]紅樹林沼澤災厄營地(Swamp Pillager Mangrove)",
+    "structure.red.taiga_deforestation": "[red]針葉林災厄營地(Taiga Deforestation)",
+
+    "_comment": "更好的地牢",
+    "structure.dungeons_plus.end_ruins": "[更好的地牢]末地廢墟(End Ruins)",
+    "structure.dungeons_plus.leviathan": "[更好的地牢]利維坦(Leviathan)",
+    "structure.dungeons_plus.reanimated_ruins_frozen": "[更好的地牢]凍原復甦地牢(Reanimated Ruins Frozen)",
+    "structure.dungeons_plus.reanimated_ruins_mesa": "[更好的地牢]惡地復甦地牢(Reanimated Ruins Mesa)",
+    "structure.dungeons_plus.reanimated_ruins_mossy": "[更好的地牢]苔蘚復甦地牢(Reanimated Ruins Mossy)",
+    "structure.dungeons_plus.snowy_temple": "[更好的地牢]風雪神廟(Snowy Temple)",
+    "structure.dungeons_plus.soul_prison": "[更好的地牢]靈魂監獄(Soul Prison)",
+    "structure.dungeons_plus.tower": "[更好的地牢]塔樓(Tower)",
+    "structure.dungeons_plus.warped_garden": "[更好的地牢]扭曲之園(Warped Garden)",
+
+    "_comment": "GGP",
+    "structure.gtbcs_geomancy_plus.geomancer_tower": "[GGP]大地術師塔(Geomancer Tower)",
+
+    "_comment": "墓園",
+    "structure.graveyard.altar": "[墓園]祭壇(Altar)",
+    "structure.graveyard.crypt": "[墓園]地下墓穴(Crypt)",
+    "structure.graveyard.dead_tree": "[墓園]死亡之樹(Dead Tree)",
+    "structure.graveyard.giant_mushroom": "[墓園]巨型蘑菇(Giant Mushroom)",
+    "structure.graveyard.haunted_house": "[墓園]鬼屋(Haunted House)",
+    "structure.graveyard.small_graveyard": "[墓園]小型墓園(Small Graveyard)",
+    "structure.graveyard.small_desert_graveyard": "[墓園]小型沙漠墓園(Small Desert Graveyard)",
+    "structure.graveyard.medium_graveyard": "[墓園]中型墓園(Medium Graveyard)",
+    "structure.graveyard.large_graveyard": "[墓園]大型墓園(Large Graveyard)",
+    "structure.graveyard.memorial_tree": "[墓園]紀念樹(Memorial Tree)",
+    "structure.graveyard.mushroom_grave": "[墓園]蘑菇墳墓(Mushroom Grave)",
+    "structure.graveyard.ruins": "[墓園]遺跡(Ruins)",
+    "structure.graveyard.small_grave": "[墓園]小型墳墓(Small Grave)",
+    "structure.graveyard.small_mountain_grave": "[墓園]小型山地墳墓(Small Mountain Grave)",
+    "structure.graveyard.small_savanna_grave": "[墓園]小型稀樹草原墳墓(Small Savanna Grave)",
+    "structure.graveyard.small_desert_grave": "[墓園]小型沙漠墳墓(Small Desert Grave)",
+    "structure.graveyard.lich_prison": "[墓園]巫妖監獄(Lich Prison)"
 }
