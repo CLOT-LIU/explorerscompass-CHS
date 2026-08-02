@@ -16,7 +16,7 @@ assignees: CLOT-LIU
    （例：forge:1.18.2-2.1.0）
 
 3. **重复检查**  
-   [ ] 我已确认[现有Issues](https://github.com/CLOT-LIU/explorerscompass-CHS/issues)中没有相同模组的翻译请求  
+- [ ] 我已确认[现有Issues](https://github.com/CLOT-LIU/explorerscompass-CHS/issues)中没有相同模组的翻译请求  
    💡 勾选方法：点击方框或输入字母 `x` (如 `[x]`)
 
 ---
