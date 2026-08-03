@@ -1,4 +1,4 @@
-﻿{
+{
   "_comment": "探险者指南针 - 语言文件",
   "_comment": "中国大陆 - 简体中文",
 
@@ -2565,5 +2565,63 @@
   "structure.qrafty.transilvania": "[Qrafty]特兰西瓦尼亚(Transilvania)",
   "structure.qrafty.tsumago": "[Qrafty]图马戈(Tsumago)",
   "structure.qrafty.well": "[Qrafty]水井(Well)",
-  "structure.qrafty.windmill": "[Qrafty]风车(Windmill)"
+  "structure.qrafty.windmill": "[Qrafty]风车(Windmill)",
+
+  "_comment": "雪帐篷",
+  "structure.snowy_tents.snowy_tent": "[雪帐篷]雪原帐篷(Snowy Tent)",
+
+  "_comment": "沼泽船",
+  "structure.swampboat.swamp_boat": "[沼泽船]沼泽船(Swamp Boat)",
+
+  "_comment": "村民弓箭手",
+  "structure.villager_archer_camp.villager_archer_camp": "[村民弓箭手]村民弓箭手营地(Villager Archer Camp)",
+
+  "_comment": "村民木筏",
+  "structure.villager_rafts.raft_1": "[村民木筏]村民木筏一(Villager Raft 1)",
+  "structure.villager_rafts.raft_2": "[村民木筏]村民木筏二(Villager Raft 2)",
+  "structure.villager_rafts.raft_3": "[村民木筏]村民木筏三(Villager Raft 3)",
+
+  "_comment": "锦致装饰",
+  "structure.supplementaries.galleon": "[锦致装饰]海盗船(Galleon)",
+  "structure.supplementaries.road_sign": "[锦致装饰]路标(Road Sign)",
+
+  "_comment": "Arboria",
+  "structure.arboria.lake_bamboo_jungle": "[Arboria]竹林湖(Lake Bamboo Jungle)",
+  "structure.arboria.lake_birch": "[Arboria]桦树林湖(Lake Birch)",
+  "structure.arboria.lake_dark_forest": "[Arboria]黑森林湖(Lake Dark Forest)",
+  "structure.arboria.lake_flower_forest": "[Arboria]花之森林湖(Lake Flower Forest)",
+  "structure.arboria.lake_forest": "[Arboria]森林湖(Lake Forest)",
+  "structure.arboria.lake_frozen.common": "[Arboria]冻原湖·普通(Lake Frozen Common)",
+  "structure.arboria.lake_frozen.normal": "[Arboria]冻原湖·常规(Lake Frozen Normal)",
+  "structure.arboria.lake_gravel.common": "[Arboria]砾石湖·普通(Lake Gravel Common)",
+  "structure.arboria.lake_gravel.large": "[Arboria]砾石湖·大型(Lake Gravel Large)",
+  "structure.arboria.lake_gravel.normal": "[Arboria]砾石湖·常规(Lake Gravel Normal)",
+  "structure.arboria.lake_jungle": "[Arboria]丛林湖(Lake Jungle)",
+  "structure.arboria.lake_lava": "[Arboria]熔岩湖(Lake Lava)",
+  "structure.arboria.lake_meadow": "[Arboria]草甸湖(Lake Meadow)",
+  "structure.arboria.lake_mushroom_fields": "[Arboria]蘑菇田湖(Lake Mushroom Fields)",
+  "structure.arboria.lake_old_birch": "[Arboria]古桦树林湖(Lake Old Birch)",
+  "structure.arboria.lake_old_pine_taiga": "[Arboria]古松针叶林湖(Lake Old Pine Taiga)",
+  "structure.arboria.lake_old_spruce_taiga": "[Arboria]古云杉针叶林湖(Lake Old Spruce Taiga)",
+  "structure.arboria.lake_plains": "[Arboria]平原湖(Lake Plains)",
+  "structure.arboria.lake_sand.common": "[Arboria]沙湖·普通(Lake Sand Common)",
+  "structure.arboria.lake_sand.large": "[Arboria]沙湖·大型(Lake Sand Large)",
+  "structure.arboria.lake_sand.normal": "[Arboria]沙湖·常规(Lake Sand Normal)",
+  "structure.arboria.lake_savanna": "[Arboria]热带草原湖(Lake Savanna)",
+  "structure.arboria.lake_savanna_plateau": "[Arboria]热带草原高原湖(Lake Savanna Plateau)",
+  "structure.arboria.lake_snowy_plains": "[Arboria]雪原湖(Lake Snowy Plains)",
+  "structure.arboria.lake_snowy_taiga": "[Arboria]雪原针叶林湖(Lake Snowy Taiga)",
+  "structure.arboria.lake_sparse_jungle": "[Arboria]稀疏丛林湖(Lake Sparse Jungle)",
+  "structure.arboria.lake_sunflower_plains": "[Arboria]向日葵平原湖(Lake Sunflower Plains)",
+  "structure.arboria.lake_taiga": "[Arboria]针叶林湖(Lake Taiga)",
+  "structure.arboria.lake_windswept_savanna": "[Arboria]风蚀热带草原湖(Lake Windswept Savanna)",
+
+  "_comment": "The Beyond",
+  "structure.the_beyond.aberrant_remains": "[The Beyond]异常残骸(Aberrant Remains)",
+  "structure.the_beyond.arch": "[The Beyond]拱门(Arch)",
+  "structure.the_beyond.bonfire": "[The Beyond]篝火(Bonfire)",
+  "structure.the_beyond.bridge": "[The Beyond]桥梁(Bridge)",
+  "structure.the_beyond.fountain": "[The Beyond]喷泉(Fountain)",
+  "structure.the_beyond.jump_platform": "[The Beyond]跳跃平台(Jump Platform)",
+  "structure.the_beyond.jump_platform_island": "[The Beyond]末影主岛跳跃平台(Jump Platform Island)"
 }
