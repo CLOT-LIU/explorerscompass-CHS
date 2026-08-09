@@ -419,6 +419,10 @@
     "structure.idas.winter_wagon": "[地牢建築統合]冬季馬車(Winter Wagon)",
     "structure.idas.witches_treestump": "[地牢建築統合]女巫樹樁(Witches Treestump)",
     "structure.idas.wizard_tower": "[地牢建築統合]巫師塔(Wizard Tower)",
+    "structure.idas.nether_pump_camp": "[地牢建築統合]下界抽水營地(Nether Pump Camp)",
+    "structure.idas.the_log": "[地牢建築統合]原木(The Log)",
+    "structure.idas.tudor_pub": "[地牢建築統合]都鐸酒館(Tudor Pub)",
+    "structure.idas.wacky_wares": "[地牢建築統合]奇趣雜貨(Wacky Wares)",
 
     "_comment": "YUNG系列",
     "structure.betterdeserttemples.desert_temple": "[YUNG的沙漠神殿優化]沙漠神殿(Desert Temple)",
@@ -479,6 +483,17 @@
     "structure.create_structures_arise.pillager_boat": "[機械動力:Structures Arise]掠奪者船(Pillager Boat)",
     "structure.create_structures_arise.createcushercrane": "[機械動力:Structures Arise]粉碎起重機(Createcushercrane)",
     "structure.create_structures_arise.pillagersteampunkairship": "[機械動力:Structures Arise]掠奪者蒸汽朋克飛艇(Pillagersteampunkairship)",
+    "structure.create_structures_arise.chocolate_pit": "[機械動力:Structures Arise]巧克力大坑(Chocolate Pit)",
+    "structure.create_structures_arise.create_bastion": "[機械動力:Structures Arise]機械動力堡壘(Create Bastion)",
+    "structure.create_structures_arise.createdesertwell": "[機械動力:Structures Arise]機械動力沙漠水井(Create Desert Well)",
+    "structure.create_structures_arise.createmonsterroom": "[機械動力:Structures Arise]機械動怪物房(Create Monster Room)",
+    "structure.create_structures_arise.createwitchhut": "[機械動力:Structures Arise]機械動女巫小屋(Create Witch Hut)",
+    "structure.create_structures_arise.crimsite_tower": "[機械動力:Structures Arise]緋紅塔(Crimsite Tower)",
+    "structure.create_structures_arise.honey_pit": "[機械動力:Structures Arise]蜂蜜大坑(Honey Pit)",
+    "structure.create_structures_arise.minetrain": "[機械動力:Structures Arise]礦車(Mine Train)",
+    "structure.create_structures_arise.towerofochrum": "[機械動力:Structures Arise]赭石塔(Tower of Ochrum)",
+    "structure.create_structures_arise.windmill": "[機械動力:Structures Arise]風車(Windmill)",
+    "structure.create_structures_arise.createpickaxestatue": "[機械動力:Structures Arise]鎬形雕像(Create Pickaxe Statue)",
 
     "_comment": "tetra",
     "structure.tetra.extractor_ruin": "[tetra]鍛造遺跡(Extractor Ruin)",
@@ -2858,5 +2873,18 @@
   "structure.minecolonies.medieval_spruce_colony": "[模擬殖民地]中世紀雲杉殖民地(Medieval Spruce Colony)",
   "structure.minecolonies.ship": "[模擬殖民地]艦船(Ship)",
   "structure.minecolonies.shire_colony": "[模擬殖民地]夏爾殖民地(Shire Colony)",
-  "structure.minecolonies.warpednetherlands_colony": "[模擬殖民地]詭異下界殖民地(Warped Netherlands Colony)"
+  "structure.minecolonies.warpednetherlands_colony": "[模擬殖民地]詭異下界殖民地(Warped Netherlands Colony)",
+
+  "_comment": "烘焙坊",
+  "structure.bakeries.well": "[烘焙坊]鹽水井(Well)",
+
+  "_comment": "機械動力:鄉村結構",
+  "structure.create_rustic_structures.rustic_barn": "[機械動力:鄉村結構]古樸穀倉(Rustic Barn)",
+  "structure.create_rustic_structures.rustic_smithy": "[機械動力:鄉村結構]古樸鐵匠鋪(Rustic Smithy)",
+  "structure.create_rustic_structures.rustic_well": "[機械動力:鄉村結構]古樸水井(Rustic Well)",
+  "structure.create_rustic_structures.rustic_windmill": "[機械動力:鄉村結構]古樸風車(Rustic Windmill)",
+
+  "_comment": "North Star",
+  "structure.northstar.lunar_base": "[北極星]月球基地(Lunar Base)",
+  "structure.northstar.martian_base": "[北極星]火星基地(Martian Base)"
 }
