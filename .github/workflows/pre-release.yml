@@ -1,0 +1,102 @@
+name: Auto Pre-release
+
+on:
+  schedule:
+    - cron: '0 2 * * *'   # 每天 02:00 (UTC) 定时检测代码更新
+  workflow_dispatch:      # 支持手动触发
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pre-release
+  cancel-in-progress: true
+
+jobs:
+  pre-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 计算版本号
+        id: version
+        run: |
+          LAST_TAG=$(git describe --tags --abbrev=0 2>/dev/null || echo "v0.0.0")
+          # 主版本号保持不变（由用户决定何时升级，如 v3.3 → v3.4）
+          # 补丁号递增并加 -beta 后缀区分预发行版：v3.3 → v3.3.1-beta → v3.3.2-beta
+          NUM=$(echo "$LAST_TAG" | sed 's/^v//' | sed 's/-beta.*//')
+          MAJOR=$(echo "$NUM" | cut -d. -f1)
+          MINOR=$(echo "$NUM" | cut -d. -f2)
+          PATCH=$(echo "$NUM" | cut -d. -f3)
+          if [ -z "$PATCH" ]; then
+            NEW_TAG="v$MAJOR.$MINOR.1-beta"
+          else
+            PATCH=$((PATCH+1))
+            NEW_TAG="v$MAJOR.$MINOR.$PATCH-beta"
+          fi
+          echo "last_tag=$LAST_TAG" >> "$GITHUB_OUTPUT"
+          echo "new_tag=$NEW_TAG" >> "$GITHUB_OUTPUT"
+
+      - name: 提取提交记录
+        id: commits
+        run: |
+          if [ "${{ steps.version.outputs.last_tag }}" = "v0.0.0" ]; then
+            git log --format=%s > commits.txt
+          else
+            git log "${{ steps.version.outputs.last_tag }}"..HEAD --format=%s > commits.txt
+          fi
+          COUNT=$(wc -l < commits.txt | tr -d ' ')
+          echo "count=$COUNT" >> "$GITHUB_OUTPUT"
+
+      - name: 生成更新说明
+        id: notes
+        if: steps.commits.outputs.count > 0
+        run: |
+          python3 << 'EOF'
+          import re
+          with open("commits.txt", encoding="utf-8") as f:
+              commits = [line.strip() for line in f if line.strip()]
+
+          sections = {"feat": [], "fix": [], "docs": [], "other": []}
+          for c in commits:
+              m = re.match(r"^(feat|fix|docs)(\(.*?\))?:?\s*(.*)", c)
+              if m:
+                  text = m.group(3) or c
+                  sections[m.group(1)].append(f"- {text}")
+              else:
+                  sections["other"].append(f"- {c}")
+
+          lines = [f"## 更新说明（共 {len(commits)} 条提交）", ""]
+
+          def add(title, items):
+              if items:
+                  lines.append(f"### {title}")
+                  lines.extend(items)
+                  lines.append("")
+
+          add("新增", sections["feat"])
+          add("修复", sections["fix"])
+          add("更新", sections["docs"])
+          add("其他", sections["other"])
+          lines.append("---")
+          lines.append("> 本更新说明由自动工作流根据提交记录生成")
+          with open("release_body.md", "w", encoding="utf-8") as f:
+              f.write("\n".join(lines))
+          EOF
+
+      - name: 打包资源包
+        run: |
+          zip -r release.zip . -x "*.git*" "*.github*" "*.DS_Store"
+
+      - name: 创建 Pre-release
+        if: steps.commits.outputs.count > 0
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "${{ steps.version.outputs.new_tag }}" release.zip \
+            --title "探险者指南针结构汉化 ${{ steps.version.outputs.new_tag }}（预发行版）" \
+            --notes-file release_body.md \
+            --prerelease
