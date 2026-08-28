@@ -97,6 +97,6 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           gh release create "${{ steps.version.outputs.new_tag }}" release.zip \
-            --title "探险者指南针结构汉化 ${{ steps.version.outputs.new_tag }}（预发行版）" \
+            --title "${{ steps.version.outputs.new_tag }} 测试版" \
             --notes-file release_body.md \
             --prerelease
