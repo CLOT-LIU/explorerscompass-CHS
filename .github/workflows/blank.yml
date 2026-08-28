@@ -5,6 +5,9 @@ on:
     tags:
       - 'v*'
 
+permissions:
+  contents: write
+
 jobs:
   build-and-release:
     if: "!contains(github.ref_name, '-beta')"
@@ -12,30 +15,18 @@ jobs:
 
     steps:
     - name: Checkout code
-      uses: actions/checkout@v2
+      uses: actions/checkout@v5
 
     - name: Create zip file
       run: |
         # 假设你想压缩整个仓库内容，排除.git和.github目录
         zip -r release.zip . -x "*.git*" "*.github*" "*.DS_Store"
 
-    - name: Create Release
-      id: create_release
-      uses: actions/create-release@v1
+    - name: 创建正式版 Release
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUBTOKEN }}
-      with:
-        tag_name: ${{ github.ref }}
-        release_name: ${{ github.ref_name }} 正式版
-        draft: false
-        prerelease: false
-
-    - name: Upload Release Asset
-      uses: actions/upload-release-asset@v1
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUBTOKEN }}
-      with:
-        upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ./release.zip
-        asset_name: explorerscompass-CHS-${{ github.ref_name }}.zip
-        asset_content_type: application/zip
+        GH_TOKEN: ${{ github.token }}
+      run: |
+        gh release create "${{ github.ref_name }}" release.zip \
+          --title "${{ github.ref_name }} 正式版" \
+          --notes "正式版发布" \
+          --latest
