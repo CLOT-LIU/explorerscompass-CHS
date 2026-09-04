@@ -22,6 +22,10 @@
 ## 繁体中文纠错
 本项目现已支持繁体中文（zh_tw）翻译，但繁体译文主要由简体转换而来，可能存在用词习惯或地区用语上的偏差。如果你熟悉台湾繁体用语，欢迎帮忙纠错与润色，可通过 **[Issue 区](https://github.com/CLOT-LIU/explorerscompass-CHS/issues)** 或 Pull Request 提交修改建议。
 
+## 定时发布的测试版压缩包
+本项目每天会自动检测代码更新，并打包生成**测试版压缩包**（Pre-release）。不需要等人工发布，你可以在 **[Releases 页面](https://github.com/CLOT-LIU/explorerscompass-CHS/releases)** 找到带 `-beta` 后缀的最新版本自行下载使用。
+> 测试版可能包含尚未完全验证的翻译内容，介意的话请以正式版为准。
+
 # 项目地址
 🔗 GitHub 仓库: [https://github.com/CLOT-LIU/explorerscompass-CHS](https://github.com/CLOT-LIU/explorerscompass-CHS)  
 
