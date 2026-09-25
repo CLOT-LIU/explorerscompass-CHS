@@ -3199,5 +3199,15 @@
 		"structure.kattersstructures.villager_mountain": "[卡特结构]高山守望者(Villager Statue - Mountain)",
 		"structure.kattersstructures.villager_ocean": "[卡特结构]海洋瞭望者(Villager Statue - Ocean)",
 		"structure.kattersstructures.windmill": "[卡特结构]风拂麦田(Windmill)",
-		"structure.kattersstructures.witch_circle": "[卡特结构]女巫法阵(Witch Circle)"
+		"structure.kattersstructures.witch_circle": "[卡特结构]女巫法阵(Witch Circle)",
+
+		"_comment": "魔爪能量饮料",
+		"structure.monster_energy.darkoakvillage": "[魔爪能量饮料]黑森林魔爪村庄(Dark Oak Village)",
+		"structure.monster_energy.monster_truck": "[魔爪能量饮料]魔爪货车(Monster Truck)",
+		"structure.monster_energy.monster_truck_desert": "[魔爪能量饮料]沙漠魔爪货车(Desert Monster Truck)",
+		"structure.monster_energy.vc_desert": "[魔爪能量饮料]沙漠便利店(Villager's Convenience Desert)",
+		"structure.monster_energy.vc_end": "[魔爪能量饮料]末地便利店(Villager's Convenience End)",
+		"structure.monster_energy.vc_nether": "[魔爪能量饮料]下界便利店(Villager's Convenience Nether)",
+		"structure.monster_energy.vcjungle": "[魔爪能量饮料]丛林便利店(Villager's Convenience Jungle)",
+		"structure.monster_energy.villagers_convenience": "[魔爪能量饮料]村民便利店(Villager's Convenience)"
 }
